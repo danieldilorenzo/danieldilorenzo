@@ -22,8 +22,8 @@ Father of Nutella and Laka, always trying to learn development to try to improve
 Always a [Plasma](https://kde.org/) user, sometimes [Gnome](https://www.gnome.org/)
 ## **Play with me**
 
-![Steam Badge](https://img.shields.io/badge/steam-%23000000.svg?style=flat-square&logo=steam&logoColor=white&link=https://steamcommunity.com/profiles/76561198144395953/)[/danieldilorenzo](https://steamcommunity.com/profiles/76561198144395953/)
-
+![Steam Badge](https://img.shields.io/badge/steam-%23000000.svg?style=flat-square&logo=steam&logoColor=white&link=https://steamcommunity.com/profiles/76561198144395953/)[ /danieldilorenzo](https://steamcommunity.com/profiles/76561198144395953/)
+![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white&link=https://steamcommunity.com/profiles/76561198144395953/)
 
 ## **Hardware**
 - Xeon E5 2650 V4
