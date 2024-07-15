@@ -18,10 +18,8 @@ Here are some ideas to get you started:
 ## **About me** :bearded_person:
 
 Father of Nutella and Laka, always trying to learn development to try to improve society a little more.
-/
-&#129422;[openSUSE Tumbleweed](https://get.opensuse.org/tumbleweed/) user
-/
-Always a [Plasma](https://kde.org/) user, sometimes [Gnome](https://www.gnome.org/).
+<br>&#129422;[openSUSE Tumbleweed](https://get.opensuse.org/tumbleweed/) user
+<br>Always a [Plasma](https://kde.org/) user, sometimes [Gnome](https://www.gnome.org/).
 
 ## **Play with me** :video_game:
 
