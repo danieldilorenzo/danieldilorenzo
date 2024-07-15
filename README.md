@@ -20,11 +20,11 @@ Here are some ideas to get you started:
 Father of Nutella and Laka, always trying to learn development to try to improve society a little more.
 &#129422;[openSUSE Tumbleweed](https://get.opensuse.org/tumbleweed/) user
 Always a [Plasma](https://kde.org/) user, sometimes [Gnome](https://www.gnome.org/)
+
 ## **Play with me**
 
 
-[![Steam Badge](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white&link=https://steamcommunity.com/profiles/76561198144395953/)](https://steamcommunity.com/profiles/76561198144395953/)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:danieldilorenzoferreira@gmail.com)](mailto:danieldilorenzoferreira@gmail.com)
+[![Steam Badge](https://img.shields.io/badge/steam-%23000000.svg?style=flat-square&logo=steam&logoColor=white&link=https://steamcommunity.com/profiles/76561198144395953/)](https://steamcommunity.com/profiles/76561198144395953/)
 
 
 ## **Hardware**
@@ -37,7 +37,7 @@ Always a [Plasma](https://kde.org/) user, sometimes [Gnome](https://www.gnome.or
 
 ## **What do I study**
 [![HTML5 Badge](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)](https://www.origamid.com/curso/html-e-css-para-iniciantes)
-[![JavaScript Badge](https://img.shields.io/badge/javascript-%23323330.svg??style=flat-square&logo=javascript&logoColor=%23F7DF1A&)](https://www.origamid.com/curso/javascript-completo-es6/))
+[![JavaScript Badge](https://img.shields.io/badge/javascript-%23323330.svg??style=flat-square&logo=javascript&logoColor=%23F7DF1A&)](https://www.origamid.com/curso/javascript-completo-es6/)
 
 
 
