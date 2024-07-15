@@ -21,7 +21,8 @@ Father of Nutella and Laka, always trying to learn development to try to improve
 &#129422;[openSUSE Tumbleweed](https://get.opensuse.org/tumbleweed/) user
 Always a [Plasma](https://kde.org/) user, sometimes [Gnome](https://www.gnome.org/)
 ## **Play with me**
-![Steam](https://img.shields.io/badge/steam-%23000000.svg?flat-square&logo=steam&logoColor=white&link=https://steamcommunity.com/profiles/76561198144395953/-Jogue_comigo)
+
+![Steam Badge](https://img.shields.io/badge/steam-%23000000.svg?style=flat-square&logo=steam&logoColor=white&link=https://steamcommunity.com/profiles/76561198144395953/)
 
 
 ## **Hardware**
@@ -33,8 +34,10 @@ Always a [Plasma](https://kde.org/) user, sometimes [Gnome](https://www.gnome.or
 - SSD Sandisk Plus 1TB
 
 ## **What do I study**
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white&link=https://www.origamid.com/curso/html-e-css-para-iniciantes)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg??style=flat-square&logo=javascript&logoColor=%23F7DF1A&link=https://www.origamid.com/curso/javascript-completo-es6/)
+![HTML5 Badge](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white&link=https://www.origamid.com/curso/html-e-css-para-iniciantes)
+![JavaScript Badge](https://img.shields.io/badge/javascript-%23323330.svg??style=flat-square&logo=javascript&logoColor=%23F7DF1A&link=https://www.origamid.com/curso/javascript-completo-es6/)
+
+
 
 ## **Useful links**
 [This Week In KDE](https://pointieststick.com/")
