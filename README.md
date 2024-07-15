@@ -38,25 +38,25 @@ Father of Nutella and Laka, always trying to learn development to try to improve
 
 ## :dart: **Goals**
 
-- [ ] Fazer o curso de HTML e CSS
-- [ ] Fazer o curso de Javascript
-- [ ] Com os cursos, conseguir fazer uma Todo List
-- [ ] Fazer também uma Pokedex
+- [ ] Learn HTML and CSS
+- [ ] Learn Javascript
+- [ ] Make a to-do list
+- [ ] Make a pokedex
 
 ## :globe_with_meridians: **Useful links**  
 
-### Linux
+#### Linux
 - [This Week In KDE](https://pointieststick.com/")
 - [This Week In Gnome](https://thisweek.gnome.org/)
 
-### Desenvolvimento
+#### Desenvolvimento
 - [Shields.io](https://shields.io/badges)
 - [Emojis](https://github.com/ikatyang/emoji-cheat-sheet)
 - [Markdown Guide](https://www.markdownguide.org/)
 - [Markdown Badges](https://github.com/Ileriayo/markdown-badges)
 - [Quickstart for writing a Markdown on GitHub](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/quickstart-for-writing-on-github)
 
-### Android
+#### Android
 - [XDA Poco X5 PRO](https://xdaforums.com/f/xiaomi-poco-x5-pro.12721/)
 - [Firmware Redwood](https://xiaomifirmwareupdater.com/archive/firmware/redwood/)
 - [Play Integrity Fix](https://github.com/chiteroman/PlayIntegrityFix/releases/)
@@ -67,7 +67,6 @@ Father of Nutella and Laka, always trying to learn development to try to improve
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:danieldilorenzoferreira@gmail.com)](mailto:danieldilorenzoferreira@gmail.com)
 
 ---
-
 
 Thanks for visiting! 👋
 
