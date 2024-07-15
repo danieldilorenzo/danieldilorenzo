@@ -23,7 +23,7 @@ Always a [Plasma](https://kde.org/) user, sometimes [Gnome](https://www.gnome.or
 ## **Play with me**
 
 ![Steam Badge](https://img.shields.io/badge/steam-%23000000.svg?style=flat-square&logo=steam&logoColor=white&link=https://steamcommunity.com/profiles/76561198144395953/)[ /danieldilorenzo](https://steamcommunity.com/profiles/76561198144395953/)
-[![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white&link=https://steamcommunity.com/profiles/76561198144395953/)(link=https://steamcommunity.com/profiles/76561198144395953/)
+[![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white&link=https://steamcommunity.com/profiles/76561198144395953/)](link=https://steamcommunity.com/profiles/76561198144395953/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:danieldilorenzoferreira@gmail.com)](mailto:danieldilorenzoferreira@gmail.com)
 ## **Hardware**
 - Xeon E5 2650 V4
