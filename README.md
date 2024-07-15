@@ -42,9 +42,9 @@ Always a [Plasma](https://kde.org/) user, sometimes [Gnome](https://www.gnome.or
 
 
 ## **Useful links**
-[This Week In KDE](https://pointieststick.com/")
-[This Week In Gnome](https://thisweek.gnome.org/)
-[Shields.io](https://shields.io/badges)
+- [This Week In KDE](https://pointieststick.com/")
+- [This Week In Gnome](https://thisweek.gnome.org/)
+- [Shields.io](https://shields.io/badges)
 
 
 ## Contact me
