@@ -49,7 +49,7 @@ Father of Nutella and Laka, always trying to learn development to try to improve
 - [This Week In KDE](https://pointieststick.com/")
 - [This Week In Gnome](https://thisweek.gnome.org/)
 
-#### Desenvolvimento
+#### Development
 - [Shields.io](https://shields.io/badges)
 - [Emojis](https://github.com/ikatyang/emoji-cheat-sheet)
 - [Markdown Guide](https://www.markdownguide.org/)
@@ -61,6 +61,9 @@ Father of Nutella and Laka, always trying to learn development to try to improve
 - [Firmware Redwood](https://xiaomifirmwareupdater.com/archive/firmware/redwood/)
 - [Play Integrity Fix](https://github.com/chiteroman/PlayIntegrityFix/releases/)
 - [Zygisk](https://github.com/Dr-TSNG/ZygiskNext/releases)
+
+#### Windows 
+- [Format a USB using CMD](https://www.wikihow.com/Format-a-USB-Using-Cmd)
 
 
 ## Contact me
