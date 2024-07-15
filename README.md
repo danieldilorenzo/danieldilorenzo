@@ -36,8 +36,8 @@ Always a [Plasma](https://kde.org/) user, sometimes [Gnome](https://www.gnome.or
 - SSD Sandisk Plus 1TB
 
 ## **What do I study**
-![HTML5 Badge](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white&link=https://www.origamid.com/curso/html-e-css-para-iniciantes)
-![JavaScript Badge](https://img.shields.io/badge/javascript-%23323330.svg??style=flat-square&logo=javascript&logoColor=%23F7DF1A&link=https://www.origamid.com/curso/javascript-completo-es6/)
+[![HTML5 Badge](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)](https://www.origamid.com/curso/html-e-css-para-iniciantes)
+[![JavaScript Badge](https://img.shields.io/badge/javascript-%23323330.svg??style=flat-square&logo=javascript&logoColor=%23F7DF1A&)](https://www.origamid.com/curso/javascript-completo-es6/))
 
 
 
