@@ -52,5 +52,9 @@ Always a [Plasma](https://kde.org/) user, sometimes [Gnome](https://www.gnome.or
 ## Contact me
 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:danieldilorenzoferreira@gmail.com)](mailto:danieldilorenzoferreira@gmail.com)
+---
+
+Thanks for visiting! 👋
+
 
 Feito com  &#9749; , &#128008;, &#128008; e <g-emoji class="g-emoji" alias="heart" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2764.png">❤️</g-emoji>  por Daniel :)
