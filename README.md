@@ -23,8 +23,8 @@ Father of Nutella and Laka, always trying to learn development to try to improve
 
 ## :video_game: **Play with me**  
 [![Steam Badge](https://img.shields.io/badge/steam-%23000000.svg?style=flat-square&logo=steam&logoColor=white&link=https://steamcommunity.com/profiles/76561198144395953/)](https://steamcommunity.com/profiles/76561198144395953/)
-
 <br>
+
 ## :computer: **Hardware**  
 - Xeon E5 2650 V4
 - HyperX Fury 2x16GB DDR4 2400MHz
@@ -33,6 +33,7 @@ Father of Nutella and Laka, always trying to learn development to try to improve
 - SSD Kingston A400 - 500GB
 - SSD Sandisk Plus 1TB
 <br>
+
 ## :books: **What do I study**  
 
 [![HTML5 Badge](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)](https://www.origamid.com/curso/html-e-css-para-iniciantes)
