@@ -50,6 +50,7 @@ Father of Nutella and Laka, always trying to learn development to try to improve
 - [This Week In Gnome](https://thisweek.gnome.org/)
 
 #### Development
+- [Google Tech Dev Guide](https://techdevguide.withgoogle.com/)
 - [Shields.io](https://shields.io/badges)
 - [Emojis](https://github.com/ikatyang/emoji-cheat-sheet)
 - [Markdown Guide](https://www.markdownguide.org/)
