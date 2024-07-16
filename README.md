@@ -55,6 +55,7 @@ Father of Nutella and Laka, always trying to learn development to try to improve
 - [Markdown Guide](https://www.markdownguide.org/)
 - [Markdown Badges](https://github.com/Ileriayo/markdown-badges)
 - [Quickstart for writing a Markdown on GitHub](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/quickstart-for-writing-on-github)
+- [MDN Web Docs](https://developer.mozilla.org/pt-BR/)
 
 #### Android
 - [XDA Poco X5 PRO](https://xdaforums.com/f/xiaomi-poco-x5-pro.12721/)
