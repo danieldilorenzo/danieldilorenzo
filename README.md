@@ -47,8 +47,8 @@ Father of Nutella and Laka, always trying to learn development to try to improve
 [![HTML5 Badge](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)](https://www.origamid.com/curso/html-e-css-para-iniciantes)
 [![JavaScript Badge](https://img.shields.io/badge/javascript-%23323330.svg??style=flat-square&logo=javascript&logoColor=%23F7DF1A&)](https://www.origamid.com/curso/javascript-completo-es6/)
 
-[![HTML5 Badge](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)](https://www.origamid.com/curso/html-e-css-para-iniciantes)
-[![JavaScript Badge](https://img.shields.io/badge/javascript-%23323330.svg??style=for-the-badge&logo=javascript&logoColor=%23F7DF1A&)](https://www.origamid.com/curso/javascript-completo-es6/)
+[![HTML5 Badge](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)](https://www.origamid.com/curso/html-e-css-para-iniciantes)
+[![JavaScript Badge](https://img.shields.io/badge/javascript-%23323330.svg??style=flat&logo=javascript&logoColor=%23F7DF1A&)](https://www.origamid.com/curso/javascript-completo-es6/)
 
 
 ## :dart: **Goals**
