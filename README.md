@@ -60,6 +60,7 @@ Father of Nutella and Laka, always trying to learn development to try to improve
 - [ ] Make a pokedex
 
 <br> 
+
 ## :globe_with_meridians: **Useful links**
 
 #### Linux
