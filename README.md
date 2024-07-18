@@ -20,6 +20,9 @@ Here are some ideas to get you started:
 Father of Nutella and Laka, always trying to learn development to try to improve society a little more.
 <br><br> &#129422; [openSUSE Tumbleweed](https://get.opensuse.org/tumbleweed/) user. Always a [Plasma](https://kde.org/) user, sometimes [Gnome](https://www.gnome.org/).
 
+<a href="http://www.opensuse.org">
+<img src="http://files.opensuse.org/opensuse/en/6/6e/Suselinux-green.png" 
+width="80" height="15" alt="openSUSE.org" /></a>
 
 
 ## :video_game: **Play with me**
