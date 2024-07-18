@@ -42,8 +42,7 @@ width="80" height="15" alt="openSUSE.org" /></a>
 
 [![HTML5 Badge](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)](https://www.origamid.com/curso/html-e-css-para-iniciantes)
 [![JavaScript Badge](https://img.shields.io/badge/javascript-%23323330.svg??style=flat-square&logo=javascript&logoColor=%23F7DF1A&)](https://www.origamid.com/curso/javascript-completo-es6/)
-[![openSUSE Badge])(https://img.shields.io/badge/opensuse-%73BA25.svg?style=flat-square)]
-https://img.shields.io/opensuse/v/opensuse.svg?logo=suse
+
 
 
 ## :dart: **Goals**
