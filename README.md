@@ -14,6 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![Static Badge](https://img.shields.io/badge/KDE%20Plasma?style=flat-square&logo=kde&logoColor=white&label=Kde&labelColor=blue&color=white)
+
 
 ## :bearded_person: **About me**
 
