@@ -31,7 +31,7 @@ Father of Nutella and Laka, always trying to learn development to try to improve
 [![Fedora](https://img.shields.io/badge/Fedora-294172?style=flat-square&logo=fedora&logoColor=white&link=https://fedoraproject.org/)](https://fedoraproject.org/)
 [![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=flat-square&link=https://archlinux.org)](https://archlinux.org/)
 [![Debian](https://img.shields.io/badge/Debian-D70A53?style=flat-square&logo=debian&logoColor=white&link=debian.org)](https://debian.org)
-<br> 
+<br><br>
 [![KDE Badge](https://img.shields.io/badge/KDE%20Plasma-1793D1?style=flat-square&logo=kde&logoColor=white&link=https://kde.org)](https://kde.org)
 [![Steam Badge](https://img.shields.io/badge/GNOME-23000000?style=flat-square&logo=gnome&logoColor=white&link=https://gnome.org)](https://gnome.org)
 
