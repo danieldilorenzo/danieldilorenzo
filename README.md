@@ -24,7 +24,7 @@ Father of Nutella and Laka, always trying to learn development to try to improve
 ## :video_game: **Play with me**
 
 [![Steam Badge](https://img.shields.io/badge/Steam-%23000000.svg?style=flat-square&logo=steam&logoColor=white&link=https://steamcommunity.com/profiles/76561198144395953/)](https://steamcommunity.com/profiles/76561198144395953/)
-<br> 
+
 ##  :penguin: **Distros**
 
 [![openSUSE](https://img.shields.io/badge/openSUSE%20Tumbleweed-%2364B345?style=flat-square&logo=openSUSE&logoColor=white&link=https://get.opensuse.org/tumbleweed/)](https://get.opensuse.org/tumbleweed/)
