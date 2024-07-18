@@ -15,6 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+[![openSUSE](https://img.shields.io/badge/openSUSE Tumbleweed-%2364B345?style=flat-square&logo=openSUSE&logoColor=white&link=https://get.opensuse.org/tumbleweed/)](https://get.opensuse.org/tumbleweed/)
+
+
 ## :bearded_person: **About me**
 
 Father of Nutella and Laka, always trying to learn development to try to improve society a little more.
