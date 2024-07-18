@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 
 [![openSUSE](https://img.shields.io/badge/openSUSE-%2364B345?style=flat-square&logo=openSUSE&logoColor=white&link=https://get.opensuse.org/tumbleweed/)](https://get.opensuse.org/tumbleweed/)
 [![Debian](https://img.shields.io/badge/Debian-D70A53?style=flat-square&logo=openSUSE&logoColor=white&link=debian.org)](https://debian.org)
+[![opensuse](https://img.shields.io/badge/openSUSE&logo=openSUSE)
 
 
 ## :bearded_person: **About me**
