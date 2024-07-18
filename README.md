@@ -14,7 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Steam Badge](https://img.shields.io/badge/kde-%23000000.svg?style=flat-square&logo=kde&logoColor=#54a3d7&link=https://kde.org)](https://steamcommunity.com/profiles/76561198144395953/)
+[![Steam Badge](https://img.shields.io/badge/kde-%54a3d7.svg?style=flat-square&logo=kde&logoColor=#54a3d7&link=https://kde.org)](https://kde.org)
+
+
 
 ## :bearded_person: **About me**
 
