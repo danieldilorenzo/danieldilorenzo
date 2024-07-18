@@ -29,6 +29,12 @@ width="80" height="15" alt="openSUSE.org" /></a>
 
 [![Steam Badge](https://img.shields.io/badge/steam-%23000000.svg?style=flat-square&logo=steam&logoColor=white&link=https://steamcommunity.com/profiles/76561198144395953/)](https://steamcommunity.com/profiles/76561198144395953/)
 
+##  :penguin: **Distros**
+
+![openSUSE](https://img.shields.io/badge/openSUSE-%2364B345?style=flat-square&logo=openSUSE&logoColor=white)
+![Fedora](https://img.shields.io/badge/Fedora-294172?style=flat-square&logo=fedora&logoColor=white)
+![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=flat-square)
+
 ## :computer: **Hardware**
 
 - Xeon E5 2650 V4
