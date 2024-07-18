@@ -18,9 +18,7 @@ Here are some ideas to get you started:
 ## :bearded_person: **About me**
 
 Father of Nutella and Laka, always trying to learn development to try to improve society a little more.
-<br><br> 
-
-
+<br>
 
 ## :video_game: **Play with me**
 
@@ -46,7 +44,7 @@ Father of Nutella and Laka, always trying to learn development to try to improve
 ## :books: **What do I study**
 
 [![HTML5 Badge](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)](https://www.origamid.com/curso/html-e-css-para-iniciantes)
-<br> [![JavaScript Badge](https://img.shields.io/badge/javascript-%23323330.svg??style=flat-square&logo=javascript&logoColor=%23F7DF1A&)](https://www.origamid.com/curso/javascript-completo-es6/)
+[![JavaScript Badge](https://img.shields.io/badge/javascript-%23323330.svg??style=flat-square&logo=javascript&logoColor=%23F7DF1A&)](https://www.origamid.com/curso/javascript-completo-es6/)
 <br> 
 
 ## :dart: **Goals**
