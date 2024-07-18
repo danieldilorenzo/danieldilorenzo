@@ -14,8 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Steam Badge](https://img.shields.io/badge/kde-1793D1?style=flat-square&logo=kde&logoColor=white&link=https://kde.org)](https://kde.org)
-
 
 
 ## :bearded_person: **About me**
@@ -34,6 +32,8 @@ Father of Nutella and Laka, always trying to learn development to try to improve
 [![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=flat-square&link=https://archlinux.org)](https://archlinux.org/)
 [![Debian](https://img.shields.io/badge/Debian-D70A53?style=flat-square&logo=debian&logoColor=white&link=debian.org)](https://debian.org)
 <br> 
+[![Steam Badge](https://img.shields.io/badge/kde-1793D1?style=flat-square&logo=kde&logoColor=white&link=https://kde.org)](https://kde.org)
+
 ## :computer: **Hardware**
 
 - Xeon E5 2650 V4
