@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ## :bearded_person: **About me**
 
 Father of Nutella and Laka, always trying to learn development to try to improve society a little more.
-<br><br> &#129422; [openSUSE Tumbleweed](https://get.opensuse.org/tumbleweed/) user. Always a [Plasma](https://kde.org/) user, sometimes [Gnome](https://www.gnome.org/).
+<br><br> 
 
 
 
