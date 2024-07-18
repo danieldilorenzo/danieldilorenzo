@@ -25,14 +25,14 @@ Father of Nutella and Laka, always trying to learn development to try to improve
 ## :video_game: **Play with me**
 
 [![Steam Badge](https://img.shields.io/badge/steam-%23000000.svg?style=flat-square&logo=steam&logoColor=white&link=https://steamcommunity.com/profiles/76561198144395953/)](https://steamcommunity.com/profiles/76561198144395953/)
-
+<br> 
 ##  :penguin: **Distros**
 
 [![openSUSE](https://img.shields.io/badge/openSUSE-%2364B345?style=flat-square&logo=openSUSE&logoColor=white&link=https://get.opensuse.org/tumbleweed/)](https://get.opensuse.org/tumbleweed/)
 [![Fedora](https://img.shields.io/badge/Fedora-294172?style=flat-square&logo=fedora&logoColor=white&link=https://fedoraproject.org/)](https://fedoraproject.org/)
 [![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=flat-square&link=https://archlinux.org)](https://archlinux.org/)
 [![Debian](https://img.shields.io/badge/Debian-D70A53?style=flat-square&logo=debian&logoColor=white&link=debian.org)](https://debian.org)
-
+<br> 
 ## :computer: **Hardware**
 
 - Xeon E5 2650 V4
@@ -41,14 +41,12 @@ Father of Nutella and Laka, always trying to learn development to try to improve
 - NVME 1 TB Kingston NV2
 - SSD Kingston A400 - 500GB
 - SSD Sandisk Plus 1TB
-
+<br> 
 ## :books: **What do I study**
 
 [![HTML5 Badge](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)](https://www.origamid.com/curso/html-e-css-para-iniciantes)
 [![JavaScript Badge](https://img.shields.io/badge/javascript-%23323330.svg??style=flat-square&logo=javascript&logoColor=%23F7DF1A&)](https://www.origamid.com/curso/javascript-completo-es6/)
-
-
-
+<br> 
 
 ## :dart: **Goals**
 
@@ -57,6 +55,7 @@ Father of Nutella and Laka, always trying to learn development to try to improve
 - [ ] Make a to-do list
 - [ ] Make a pokedex
 
+<br> 
 ## :globe_with_meridians: **Useful links**
 
 #### Linux
