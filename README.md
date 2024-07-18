@@ -22,7 +22,7 @@ Father of Nutella and Laka, always trying to learn development to try to improve
 
 ## :video_game: **Play with me**
 
-[![Steam Badge](https://img.shields.io/badge/steam-%23000000.svg?style=flat-square&logo=steam&logoColor=white&link=https://steamcommunity.com/profiles/76561198144395953/)](https://steamcommunity.com/profiles/76561198144395953/)
+[![Steam Badge](https://img.shields.io/badge/Steam-%23000000.svg?style=flat-square&logo=steam&logoColor=white&link=https://steamcommunity.com/profiles/76561198144395953/)](https://steamcommunity.com/profiles/76561198144395953/)
 <br> 
 ##  :penguin: **Distros**
 
