@@ -81,11 +81,13 @@ Father of Nutella and Laka, always trying to learn development to try to improve
 
 ---
 
+[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103?style=flat-square)](https://github.com/ellerbrock/open-source-badges/) [![MIT Licence](https://badges.frapsoft.com/os/mit/mit.svg?v=103?style=flat-square)](https://opensource.org/licenses/mit-license.php)
+
 Thanks for visiting! 👋
 
 Feito com &#9749; , &#128008;, &#128008; e <g-emoji class="g-emoji" alias="heart" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2764.png">❤️</g-emoji> por Daniel :)
 
-[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103?style=flat-square)](https://github.com/ellerbrock/open-source-badges/) [![MIT Licence](https://badges.frapsoft.com/os/mit/mit.svg?v=103?style=flat-square)](https://opensource.org/licenses/mit-license.php)
+
 
 <!--
 
