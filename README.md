@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ## :bearded_person: **About me**
 
 Father of Nutella and Laka, always trying to learn development to try to improve society a little more.
-<br><br>[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103?style=flat-square)](https://github.com/ellerbrock/open-source-badges/) &#129422; [openSUSE Tumbleweed](https://get.opensuse.org/tumbleweed/) user. Always a [Plasma](https://kde.org/) user, sometimes [Gnome](https://www.gnome.org/).
+<br><br> &#129422; [openSUSE Tumbleweed](https://get.opensuse.org/tumbleweed/) user. Always a [Plasma](https://kde.org/) user, sometimes [Gnome](https://www.gnome.org/).
 
 
 
@@ -85,7 +85,7 @@ Thanks for visiting! 👋
 
 Feito com &#9749; , &#128008;, &#128008; e <g-emoji class="g-emoji" alias="heart" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2764.png">❤️</g-emoji> por Daniel :)
 
-[![MIT Licence](https://badges.frapsoft.com/os/mit/mit.svg?v=103?style=flat-square)](https://opensource.org/licenses/mit-license.php)
+[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103?style=flat-square)](https://github.com/ellerbrock/open-source-badges/) [![MIT Licence](https://badges.frapsoft.com/os/mit/mit.svg?v=103?style=flat-square)](https://opensource.org/licenses/mit-license.php)
 
 <!--
 
