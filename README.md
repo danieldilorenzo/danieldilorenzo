@@ -65,7 +65,7 @@ Father of Nutella and Laka, always trying to learn development to try to improve
 
 #### Linux
 
-- [This Week In KDE](https://pointieststick.com/")
+- [This Week In KDE](https://pointieststick.com/)
 - [This Week In Gnome](https://thisweek.gnome.org/)
 
 #### Development
