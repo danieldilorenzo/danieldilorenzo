@@ -15,11 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
 ## :bearded_person: **About me**
 
 Father of Nutella and Laka, always trying to learn development to try to improve society a little more.
-<br>
 
 ## :video_game: **Play with me**
 
@@ -35,7 +33,6 @@ Father of Nutella and Laka, always trying to learn development to try to improve
 [![KDE Badge](https://img.shields.io/badge/KDE%20Plasma-1793D1?style=flat-square&logo=kde&logoColor=white&link=https://kde.org)](https://kde.org)
 [![Steam Badge](https://img.shields.io/badge/GNOME-black?style=flat-square&logo=gnome&logoColor=white&link=https://gnome.org)](https://gnome.org)
 
-
 ## :computer: **Hardware**
 
 - Xeon E5 2650 V4
@@ -44,13 +41,11 @@ Father of Nutella and Laka, always trying to learn development to try to improve
 - NVME 1 TB Kingston NV2
 - SSD Kingston A400 - 500GB
 - SSD Sandisk Plus 1TB
-<br>
 
 ## :books: **What do I study**
 
 [![HTML5 Badge](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)](https://www.origamid.com/curso/html-e-css-para-iniciantes)
 [![JavaScript Badge](https://img.shields.io/badge/javascript-%23323330.svg??style=flat-square&logo=javascript&logoColor=%23F7DF1A&)](https://www.origamid.com/curso/javascript-completo-es6/)
-<br> 
 
 ## :dart: **Goals**
 
@@ -58,8 +53,6 @@ Father of Nutella and Laka, always trying to learn development to try to improve
 - [ ] Learn Javascript
 - [ ] Make a to-do list
 - [ ] Make a pokedex
-
-<br> 
 
 ## :globe_with_meridians: **Useful links**
 
@@ -95,18 +88,15 @@ Father of Nutella and Laka, always trying to learn development to try to improve
 
 ---
 
-[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103?style=flat-square)](https://github.com/ellerbrock/open-source-badges/) [![MIT Licence](https://badges.frapsoft.com/os/mit/mit.svg?v=103?style=flat-square)](https://opensource.org/licenses/mit-license.php)
+[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103?style=flat-square)](https://opensource.org/) [![MIT Licence](https://badges.frapsoft.com/os/mit/mit.svg?v=103?style=flat-square)](https://opensource.org/licenses/mit-license.php)
 
 Thanks for visiting! 👋
 
 Feito com &#9749; , &#128008;, &#128008; e <g-emoji class="g-emoji" alias="heart" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2764.png">❤️</g-emoji> por Daniel :)
 
-
-
 <!--
 
 Badge de <3 Software Livre
-
 https://github.com/ellerbrock/open-source-badges
 
  -->
