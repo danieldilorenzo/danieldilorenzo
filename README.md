@@ -81,7 +81,8 @@ Father of Nutella and Laka, always trying to learn development to try to improve
 #### Windows
 
 - [Format a USB using CMD](https://www.wikihow.com/Format-a-USB-Using-Cmd)
-
+- [Remove "The referenced account is currently locked and cannot be logged in"](https://vmserv.com.br/a-conta-referenciada-esta-atualmente-bloqueada-e-nao-pode-ser-logada/)
+  
 ## Contact me
 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:danieldilorenzoferreira@gmail.com)](mailto:danieldilorenzoferreira@gmail.com)
