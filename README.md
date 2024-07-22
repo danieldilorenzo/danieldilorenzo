@@ -85,6 +85,7 @@ Father of Nutella and Laka, always trying to learn development to try to improve
 ## Contact me
 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:danieldilorenzoferreira@gmail.com)](mailto:danieldilorenzoferreira@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-danieldilorenzoferreira@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:danieldilorenzoferreira@gmail.com)](mailto:danieldilorenzoferreira@gmail.com)
 
 ---
 
