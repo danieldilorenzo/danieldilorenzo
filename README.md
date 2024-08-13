@@ -77,6 +77,7 @@ Father of Nutella and Laka, always trying to learn development to try to improve
 - [Firmware Redwood](https://xiaomifirmwareupdater.com/archive/firmware/redwood/)
 - [Play Integrity Fix](https://github.com/chiteroman/PlayIntegrityFix/releases/)
 - [Zygisk](https://github.com/Dr-TSNG/ZygiskNext/releases)
+- [Rom Project Sakura Redwood](https://projectsakura.me/download/#/redwood)
 
 #### Windows
 
