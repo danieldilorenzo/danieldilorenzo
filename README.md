@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ## :bearded_person: **About me**
 
-Father of Nutella and Laka, always trying to learn development to try to improve society a little more.
+A father to Nutella and Laka, while always working on developing my skills to, hopefully, improve society.
 
 ## :video_game: **Play with me**
 
