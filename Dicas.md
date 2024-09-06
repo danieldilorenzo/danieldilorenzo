@@ -32,9 +32,16 @@ Ou
 
  <br>
 
+ # Alterar o tempo de espera do Gnome antes de monstrar "Aplicativo X parou"<br>
+ _Isso resolve um problema que tenho com a Steam, onde logo que eu abro aparece esse erro. Nunca ocorre no Plasma_
+
+<br>
+ > gsettings set org.gnome.mutter check-alive-timeout 30000
+
 # Fonte
 
 - https://linuxiac.com/how-to-find-linux-os-installation-date/
 - https://www.freecodecamp.org/news/how-to-install-arch-linux/
 - https://www.reddit.com/r/archlinux/comments/nnubzr/iwd_says_wlan0_is_off/?onetap_auto=true&one_tap=true
 - https://wiki.archlinux.org/title/Network_configuration/Wireless#Rfkill_caveat
+- https://www.reddit.com/r/gnome/comments/hzkuwx/how_gnome_treats_unresponsive_applications_can_i/
