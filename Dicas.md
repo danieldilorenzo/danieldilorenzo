@@ -8,6 +8,8 @@
 > sudo adb reboot recovery <br><br>
 > sudo adb sideload rom.zip
 
+<br>
+
 # Descobrir a quanto tempo o Linux está instalado
 
 
@@ -19,6 +21,20 @@ Ou
 
 <br>
 
+# Desbloquear WiFi para instalação Arch
+
+> rfkill unblock wlan <br><br>
+> iwctl <br><br>
+> device list <br><br>
+> station wlan0 scan <br><br>
+> station wlan0 get-networks <br><br>
+> station wlan0 connect <nome_da_rede>
+
+ <br>
+
 # Fonte
 
 - https://linuxiac.com/how-to-find-linux-os-installation-date/
+- https://www.freecodecamp.org/news/how-to-install-arch-linux/
+- https://www.reddit.com/r/archlinux/comments/nnubzr/iwd_says_wlan0_is_off/?onetap_auto=true&one_tap=true
+- https://wiki.archlinux.org/title/Network_configuration/Wireless#Rfkill_caveat
