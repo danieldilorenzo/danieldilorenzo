@@ -36,6 +36,7 @@ Ou
  _Isso resolve um problema que tenho com a Steam, onde logo que eu abro aparece esse erro. Nunca ocorre no Plasma_
 
 <br>
+
  > gsettings set org.gnome.mutter check-alive-timeout 30000
 
 # Fonte
