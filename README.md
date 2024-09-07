@@ -26,6 +26,7 @@ A father to Nutella and Laka, while always working on developing my skills to, h
 ##  :penguin: **Distros**
 
 [![openSUSE](https://img.shields.io/badge/openSUSE%20Tumbleweed-%2364B345?style=flat-square&logo=openSUSE&logoColor=white&link=https://get.opensuse.org/tumbleweed/)](https://get.opensuse.org/tumbleweed/)
+[![NixOS](https://img.shields.io/badge/NixOS-5277C3?style=flat&logo=nixos&logoColor=white&link=https://nixos.org/)
 [![Fedora](https://img.shields.io/badge/Fedora-294172?style=flat-square&logo=fedora&logoColor=white&link=https://fedoraproject.org/)](https://fedoraproject.org/)
 [![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=flat-square&link=https://archlinux.org)](https://archlinux.org/)
 [![Debian](https://img.shields.io/badge/Debian-D70A53?style=flat-square&logo=debian&logoColor=white&link=debian.org)](https://debian.org)
@@ -68,8 +69,10 @@ A father to Nutella and Laka, while always working on developing my skills to, h
 - [Emojis](https://github.com/ikatyang/emoji-cheat-sheet)
 - [Markdown Guide](https://www.markdownguide.org/)
 - [Markdown Badges](https://github.com/Ileriayo/markdown-badges)
+- [More Badges](https://github.com/henriquesebastiao/badges)
 - [Quickstart for writing a Markdown on GitHub](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/quickstart-for-writing-on-github)
 - [MDN Web Docs](https://developer.mozilla.org/pt-BR/)
+  
 
 #### Android
 
