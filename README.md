@@ -31,7 +31,6 @@ A father to Nutella and Laka, while always working on developing my skills to, h
 [![Debian](https://img.shields.io/badge/Debian-D70A53?style=flat-square&logo=debian&logoColor=white&link=debian.org)](https://debian.org)
 <!--[![NixOS](https://img.shields.io/badge/NixOS-5277C3?style=flat&logo=nixos&logoColor=white&link=https://nixos.org/)](https://nixos.org/)-->
 
-<br><br>
 [![KDE Badge](https://img.shields.io/badge/KDE%20Plasma-1793D1?style=flat-square&logo=kde&logoColor=white&link=https://kde.org)](https://kde.org)
 [![Steam Badge](https://img.shields.io/badge/GNOME-black?style=flat-square&logo=gnome&logoColor=white&link=https://gnome.org)](https://gnome.org)
 
