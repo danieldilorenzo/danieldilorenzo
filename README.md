@@ -70,7 +70,7 @@ A father to Nutella and Laka, while always working on developing my skills to, h
 
 - [NixOS Learn](https://nixos.org/learn/)
 - [Zero to Nix](https://zero-to-nix.com/)
-- [Search Package non Nix](https://search.nixos.org/options)
+- [Search Package on Nix](https://search.nixos.org/options)
 - [Nix Pills](https://nixos.org/guides/nix-pills/)
 - [Nix.dev](https://nix.dev/)
 - [Discourse Nix](https://discourse.nixos.org/)
