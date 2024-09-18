@@ -65,6 +65,8 @@ A father to Nutella and Laka, while always working on developing my skills to, h
 - [Roadmap KDE](https://community.kde.org/Schedules/Plasma_6)
 - [Discuss KDE](https://discuss.kde.org/)
 - [Gnome Apps](https://apps.gnome.org/pt-BR/)
+- [Gnome Blosgs](https://blogs.gnome.org/)
+- [Just Another Blog](https://blogs.gnome.org/alicem/)
 - [This Week In Gnome](https://thisweek.gnome.org/)
 - [Roadmap Gnome](https://release.gnome.org/calendar/)
 - [Gnome Discourse](https://discourse.gnome.org/)
