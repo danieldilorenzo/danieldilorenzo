@@ -93,7 +93,8 @@ A father to Nutella and Laka, while always working on developing my skills to, h
 - [More Badges](https://github.com/henriquesebastiao/badges)
 - [Quickstart for writing a Markdown on GitHub](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/quickstart-for-writing-on-github)
 - [MDN Web Docs](https://developer.mozilla.org/pt-BR/)
-  
+- [HTML - MDN Web Docs](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
+- [HTML - W3](https://www.w3schools.com/html/)
 
 #### Android
 
