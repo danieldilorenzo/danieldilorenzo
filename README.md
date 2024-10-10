@@ -95,6 +95,7 @@ A father to Nutella and Laka, while always working on developing my skills to, h
 - [MDN Web Docs](https://developer.mozilla.org/pt-BR/)
 - [HTML - MDN Web Docs](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
 - [HTML - W3](https://www.w3schools.com/html/)
+- [Iconify](https://iconify.design/)
 
 #### Android
 
