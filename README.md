@@ -58,7 +58,7 @@ A father to Nutella and Laka, while always working on developing my skills to, h
 
 ## 🛠️ **Working Projects** 
 
-[![KDE Badge](https://img.shields.io/badge/How%20I%20install%20Linux-1793D1?style=flat-square&logo=linux&logoColor=white&link=https://github.com/danieldilorenzo/install_linux)](https://github.com/danieldilorenzo/install_linux)
+[![Working projects](https://img.shields.io/badge/How%20I%20install%20Linux-1793D1?style=flat-square&logo=linux&logoColor=white&link=https://github.com/danieldilorenzo/install_linux)](https://github.com/danieldilorenzo/install_linux)
 
 
 
