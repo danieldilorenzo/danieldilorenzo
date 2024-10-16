@@ -29,7 +29,7 @@ A father to Nutella and Laka, while always working on developing my skills to, h
 [![Fedora](https://img.shields.io/badge/Fedora-294172?style=flat-square&logo=fedora&logoColor=white&link=https://fedoraproject.org/)](https://fedoraproject.org/)
 [![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=flat-square&link=https://archlinux.org)](https://archlinux.org/)
 [![Debian](https://img.shields.io/badge/Debian-D70A53?style=flat-square&logo=debian&logoColor=white&link=debian.org)](https://debian.org)
-[![NixOS](https://img.shields.io/badge/NixOS-5277C3?style=flat&logo=nixos&logoColor=white&link=https://nixos.org/)](https://nixos.org/)
+[![NixOS](https://img.shields.io/badge/NixOS-5277C3?style=flat-square&logo=nixos&logoColor=white&link=https://nixos.org/)](https://nixos.org/)
 
 [![KDE Badge](https://img.shields.io/badge/KDE%20Plasma-1793D1?style=flat-square&logo=kde&logoColor=white&link=https://kde.org)](https://kde.org)
 [![Steam Badge](https://img.shields.io/badge/GNOME-black?style=flat-square&logo=gnome&logoColor=white&link=https://gnome.org)](https://gnome.org)
@@ -58,7 +58,10 @@ A father to Nutella and Laka, while always working on developing my skills to, h
 
 ## 🛠️ **Working Projects** 
 
-[![JavaScript Badge](https://img.shields.io/badge/How%20I%20install%20Linux-teal.svg??style=flat-square&logo=linux&logoColor=white)](https://github.com/danieldilorenzo/install_linux)
+[![KDE Badge](https://img.shields.io/badge/How%20I%20install%20Linux-1793D1?style=flat-square&logo=linux&logoColor=white&link=https://github.com/danieldilorenzo/install_linux)](https://github.com/danieldilorenzo/install_linux)
+
+
+
 
 ## :globe_with_meridians: **Useful links**
 
