@@ -58,8 +58,7 @@ A father to Nutella and Laka, while always working on developing my skills to, h
 
 ## 🛠️ **Working Projects** 
 
-[![JavaScript Badge](https://img.shields.io/badge/How%20I%20install%20Linux-teal.svg??style=flat-square&logo=linux&logoColor=white)](https://www.origamid.com/curso/javascript-completo-es6/)
-
+[![JavaScript Badge](https://img.shields.io/badge/How%20I%20install%20Linux-teal.svg??style=flat-square&logo=linux&logoColor=white)](https://github.com/danieldilorenzo/install_linux)
 ## :globe_with_meridians: **Useful links**
 
 #### Linux
