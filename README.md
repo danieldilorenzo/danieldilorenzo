@@ -115,7 +115,8 @@ A father to Nutella and Laka, while always working on developing my skills to, h
 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:danieldilorenzoferreira@gmail.com)](mailto:danieldilorenzoferreira@gmail.com)
 
----
+<!-- --- -->
+<br>
 
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103?style=flat-square)](https://opensource.org/) [![MIT Licence](https://badges.frapsoft.com/os/mit/mit.svg?v=103?style=flat-square)](https://opensource.org/licenses/mit-license.php)
 
