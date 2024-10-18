@@ -78,6 +78,7 @@ A father to Nutella and Laka, while always working on developing my skills to, h
 - [This Week In Gnome](https://thisweek.gnome.org/)
 - [Roadmap Gnome](https://release.gnome.org/calendar/)
 - [Gnome Discourse](https://discourse.gnome.org/)
+- [openSUSE Slowroll ISO](https://download.opensuse.org/slowroll/iso/)
 
   
 #### NixOS
