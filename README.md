@@ -76,7 +76,8 @@ A father to Nutella and Laka, while always working on developing my skills to, h
 
 - [KDE Apps](https://apps.kde.org/pt-br/)
 - [KDE Blogs](https://blogs.kde.org/)
-- [This Week In KDE](https://pointieststick.com/)
+- [This Week in Plasma](https://blogs.kde.org/categories/this-week-in-plasma/)
+- [Adventures in Linux and KDE](https://pointieststick.com/)
 - [Roadmap KDE](https://community.kde.org/Schedules/Plasma_6)
 - [Discuss KDE](https://discuss.kde.org/)
 - [Gnome Apps](https://apps.gnome.org/pt-BR/)
