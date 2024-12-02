@@ -39,6 +39,20 @@ Ou
 
  > gsettings set org.gnome.mutter check-alive-timeout 30000
 
+<br>
+
+# NixOS
+
+- [NixOS Learn](https://nixos.org/learn/)
+- [Zero to Nix](https://zero-to-nix.com/)
+- [Search Package on Nix](https://search.nixos.org/options)
+- [Nix Pills](https://nixos.org/guides/nix-pills/)
+- [Nix.dev](https://nix.dev/)
+- [Discourse Nix](https://discourse.nixos.org/)
+- [NixOS & Flakes Book](https://nixos-and-flakes.thiscute.world/)
+
+<br>
+
 # Fonte
 
 - https://linuxiac.com/how-to-find-linux-os-installation-date/
