@@ -88,17 +88,6 @@ A father to Nutella and Laka, while always working on developing my skills to, h
 - [Gnome Discourse](https://discourse.gnome.org/)
 - [openSUSE Slowroll ISO](https://download.opensuse.org/slowroll/iso/)
 
-  
-#### NixOS
-
-- [NixOS Learn](https://nixos.org/learn/)
-- [Zero to Nix](https://zero-to-nix.com/)
-- [Search Package on Nix](https://search.nixos.org/options)
-- [Nix Pills](https://nixos.org/guides/nix-pills/)
-- [Nix.dev](https://nix.dev/)
-- [Discourse Nix](https://discourse.nixos.org/)
-- [NixOS & Flakes Book](https://nixos-and-flakes.thiscute.world/)
-
 #### Development
 
 - [Google Tech Dev Guide](https://techdevguide.withgoogle.com/)
