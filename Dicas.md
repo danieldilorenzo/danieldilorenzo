@@ -32,7 +32,7 @@ Ou
 
  <br>
 
- # Alterar o tempo de espera do Gnome antes de monstrar "Aplicativo X parou"<br>
+ # Alterar o tempo de espera do Gnome antes de mostrar "Aplicativo X parou"<br>
  _Isso resolve um problema que tenho com a Steam, onde logo que eu abro aparece esse erro. Nunca ocorre no Plasma_
 
 <br>
