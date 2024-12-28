@@ -41,6 +41,14 @@ Ou
 
 <br>
 
+# Descobrir no Fedora em que pasta está um programa
+
+<br>
+
+>rpm -ql NomeDoPrograma
+
+<br>
+
 # NixOS
 
 - [NixOS Learn](https://nixos.org/learn/)
