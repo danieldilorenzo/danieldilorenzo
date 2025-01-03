@@ -59,7 +59,6 @@ A father to Nutella and Laka, while always working on developing my skills to, h
 
 ## :dart: **Goals**
 
-<!--- [ ] Install and maintain a working and functional NixOS installation for a year (_Starting at 09/07/24_) 07 de setembro -->
 - [ ] Learn HTML and CSS
 - [ ] Learn Javascript
 - [ ] Make a to-do list
