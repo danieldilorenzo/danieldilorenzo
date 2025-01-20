@@ -119,6 +119,7 @@ A father to Nutella and Laka, while always working on developing my skills to, h
 
 - [Format a USB using CMD](https://www.wikihow.com/Format-a-USB-Using-Cmd)
 - [Remove "The referenced account is currently locked and cannot be logged in"](https://vmserv.com.br/a-conta-referenciada-esta-atualmente-bloqueada-e-nao-pode-ser-logada/)
+- [Pegar Bitlocker Windows 11](https://aka.ms/myrecoverykey)
   
 ## Contact me
 
