@@ -112,6 +112,7 @@ A father to Nutella and Laka, while always working on developing my skills to, h
 - [Play Integrity Fix](https://github.com/chiteroman/PlayIntegrityFix/releases/)
 - [Zygisk](https://github.com/Dr-TSNG/ZygiskNext/releases)
 - [Rom crDroid](https://crdroid.net/redwood/11)
+- [Rom Matrixx](https://www.projectmatrixx.org/downloads/redwood)
 - [Rom AOSPA Redwood](https://sourceforge.net/projects/poco-x5-pro-roms/files/Aospa/Uvite/)
 - [Rom Project Sakura Redwood](https://projectsakura.me/download/#/redwood)
 
