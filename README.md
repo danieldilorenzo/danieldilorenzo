@@ -115,6 +115,7 @@ A father to Nutella and Laka, while always working on developing my skills to, h
 - [Rom Matrixx](https://www.projectmatrixx.org/downloads/redwood)
 - [Rom AOSPA Redwood](https://sourceforge.net/projects/poco-x5-pro-roms/files/Aospa/Uvite/)
 - [Rom Project Sakura Redwood](https://projectsakura.me/download/#/redwood)
+- [Como compilar o Android](https://www.youtube.com/watch?v=vX8t9l8gnT0)
 
 #### Windows
 
