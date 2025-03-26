@@ -108,7 +108,7 @@ A father to Nutella and Laka, while always working on developing my skills to, h
 - [XDA Poco X5 PRO](https://xdaforums.com/f/xiaomi-poco-x5-pro.12721/)
 - [Firmware Redwood](https://xmfirmwareupdater.com/firmware/redwood/)
 - [Forum Xiaomi.eu Redwood](https://xiaomi.eu/community/forums/poco-x5-5g-pro-5g-redmi-note-12-pro-speed.225/)
-- [Xiaomi.eu Redwood Download](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/HyperOS-STABLE-RELEASES/HyperOS1.0/)
+- [Xiaomi.eu Redwood Download](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/HyperOS-STABLE-RELEASES/HyperOS2.0/)
 - [Play Integrity Fix](https://github.com/chiteroman/PlayIntegrityFix/releases/)
 - [Zygisk](https://github.com/Dr-TSNG/ZygiskNext/releases)
 - [Rom crDroid](https://crdroid.net/redwood/11)
