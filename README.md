@@ -133,7 +133,8 @@ A father to Nutella and Laka, while always working on developing my skills to, h
 
 #### Samsung
 
-- [XDA Galaxy S23 Ultra](htps://xdaforums.com/f/samsung-galaxy-s23-ultra.12713/)
+- [XDA Galaxy S23 Ultra](https://xdaforums.com/f/samsung-galaxy-s23-ultra.12713/)
+
 
 
 #### Windows
