@@ -71,8 +71,8 @@ A father to Nutella and Laka, while always working on developing my skills to, h
 ## :iphone: **Devices**
 
 - Samsung Galaxy Y
-- Moto G (2013)
 - LG Nexus 4
+- Moto G (2013)
 - Moto G (2014)
 - Moto Z2 Play
 - Xiaomi Mi A2 Lite
