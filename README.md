@@ -68,8 +68,17 @@ A father to Nutella and Laka, while always working on developing my skills to, h
 
 [![Working projects](https://img.shields.io/badge/How%20I%20install%20Linux-1793D1?style=flat-square&logo=linux&logoColor=white&link=https://github.com/danieldilorenzo/install_linux)](https://github.com/danieldilorenzo/install_linux)
 
+## :iphone: **Devices**
 
-
+- Samsung Galaxy Y
+- Moto G (2013)
+- Moto G (2014)
+- Moto Z2 Play
+- Xiaomi Mi A2 Lite
+- Redmi Note 8
+- Poco X3 Pro
+- Poco x5 Pro 5G
+- Samsung S23 Ultra _*(current device)*_
 
 ## :globe_with_meridians: **Useful links**
 
@@ -105,17 +114,26 @@ A father to Nutella and Laka, while always working on developing my skills to, h
 
 #### Android
 
+- [Play Integrity Fix](https://github.com/chiteroman/PlayIntegrityFix/releases/)
+- [Zygisk](https://github.com/Dr-TSNG/ZygiskNext/releases)
+- [Como compilar o Android](https://www.youtube.com/watch?v=vX8t9l8gnT0)
+
+
+#### Xiaomi
+
 - [XDA Poco X5 PRO](https://xdaforums.com/f/xiaomi-poco-x5-pro.12721/)
 - [Firmware Redwood](https://xmfirmwareupdater.com/firmware/redwood/)
 - [Forum Xiaomi.eu Redwood](https://xiaomi.eu/community/forums/poco-x5-5g-pro-5g-redmi-note-12-pro-speed.225/)
 - [Xiaomi.eu Redwood Download](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/HyperOS-STABLE-RELEASES/HyperOS2.0/)
-- [Play Integrity Fix](https://github.com/chiteroman/PlayIntegrityFix/releases/)
-- [Zygisk](https://github.com/Dr-TSNG/ZygiskNext/releases)
 - [Rom crDroid](https://crdroid.net/redwood/11)
 - [Rom Matrixx](https://www.projectmatrixx.org/downloads/redwood)
 - [Rom AOSPA Redwood](https://sourceforge.net/projects/poco-x5-pro-roms/files/Aospa/Uvite/)
 - [Rom Project Sakura Redwood](https://projectsakura.me/download/#/redwood)
-- [Como compilar o Android](https://www.youtube.com/watch?v=vX8t9l8gnT0)
+
+#### Samsung
+
+- [XDA Galaxy S23 Ultra]9https://xdaforums.com/f/samsung-galaxy-s23-ultra.12713/0
+
 
 #### Windows
 
