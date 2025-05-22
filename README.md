@@ -22,9 +22,6 @@ A father to Nutella and Laka, while always working on developing my skills to, h
 ## :video_game: **Play with me**
 
 [![Steam Badge](https://img.shields.io/badge/Steam-%23000000.svg?style=flat-square&logo=steam&logoColor=white&link=https://steamcommunity.com/profiles/76561198144395953/)](https://steamcommunity.com/profiles/76561198144395953/)
-
-<br>
-
 [![Steam_Badge](https://img.shields.io/badge/Minha%20wishlist%20na%20Steam-%23000000.svg?style=flat-square&logo=steam&logoColor=white&link=https://steamcommunity.com/profiles/76561198144395953/)](https://store.steampowered.com/wishlist/id/danieldilorenzo/)
 
 ##  :penguin: **Distros**
