@@ -114,6 +114,12 @@ A father to Nutella and Laka, while always working on developing my skills to, h
 - [HTML - W3](https://www.w3schools.com/html/)
 - [Iconify](https://iconify.design/)
 
+
+#### Automation (RobotFramework and Cypress)
+
+- [RobotFramework](https://robotframework.org/)
+- [Cypress](https://www.cypress.io/)
+
 #### Android
 
 - [Play Integrity Fix](https://github.com/chiteroman/PlayIntegrityFix/releases/)
