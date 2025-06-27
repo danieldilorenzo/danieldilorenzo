@@ -25,7 +25,7 @@ ___
 
 <br>
 
->[!IMPORTANT]
+>[!TIP]
 > Quando não tiver instução, deve sempre se baixar, descompactar e colocar na pasta padrão de mods.
 
 <br>
