@@ -5,9 +5,9 @@
 
 ## Adicionando os Mods
 
-> Para Linux, o caminho padrão da pasta de Mods é
+> Para Linux, o caminho padrão da pasta de Mods (tendo em mente que está sendo usado o pacote da distro e não flatpak / snap) é
 > 
-> /home/{user}/.steam/steam/steamapps/common/Stardew Valley
+> /home/{USER}/.steam/steam/steamapps/common/Stardew Valley
 
 <br>
 
