@@ -11,6 +11,11 @@
 
 > https://www.nexusmods.com/stardewvalley/mods/1915
 
+#### Farm Type Manager (FTM)
+
+> https://www.nexusmods.com/stardewvalley/mods/3231
+
+
 <br>
 
 ___
@@ -87,7 +92,12 @@ Baixe  o Zip, descompacte e instale de acordo com as [instruções](https://star
 ## MODS PARA JOGABILIDADE
 
 
+
 ### - Stardew Valley Extended
+
+- [**Download Stardew Valley Extended**](https://www.nexusmods.com/stardewvalley/mods/3753)
+
+- [**Tradução PT-BR**](https://www.nexusmods.com/stardewvalley/mods/22110)
 
 
 ### - Events Expansion
