@@ -127,6 +127,8 @@ https://github.com/danieldilorenzo/danieldilorenzo/blob/main/stardew%20mods.md
 
 - [RobotFramework](https://robotframework.org/)
 - [Cypress](https://www.cypress.io/)
+- [Cypress Comands](https://docs.cypress.io/api/commands/get)
+
 
 #### Android
 
