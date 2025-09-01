@@ -88,7 +88,8 @@ https://github.com/danieldilorenzo/danieldilorenzo/blob/main/stardew%20mods.md
 - Redmi Note 8
 - Poco X3 Pro
 - Poco x5 Pro 5G
-- Samsung S23 Ultra  _**(current device)**_
+- Samsung S23 Ultra
+- Poco F7 _**(current device)**_
 
 ## :globe_with_meridians: **Useful links**
 
