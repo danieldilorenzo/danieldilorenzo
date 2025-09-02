@@ -87,7 +87,7 @@ https://github.com/danieldilorenzo/danieldilorenzo/blob/main/stardew%20mods.md
 - Xiaomi Mi A2 Lite
 - Redmi Note 8
 - Poco X3 NFC
-- Poco x5 Pro 5G
+- Poco X5 Pro 5G
 - Samsung S23 Ultra
 - Poco F7 _**(current device)**_
 
