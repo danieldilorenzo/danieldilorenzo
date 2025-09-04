@@ -148,12 +148,7 @@ https://github.com/danieldilorenzo/danieldilorenzo/blob/main/stardew%20mods.md
 - [Rom Matrixx](https://www.projectmatrixx.org/downloads/redwood)
 - [Rom AOSPA Redwood](https://sourceforge.net/projects/poco-x5-pro-roms/files/Aospa/Uvite/)
 - [Rom Project Sakura Redwood](https://projectsakura.me/download/#/redwood)
-
-#### Samsung
-
-- [XDA Galaxy S23 Ultra](https://xdaforums.com/f/samsung-galaxy-s23-ultra.12713/)
-
-
+- [XDA Poco F7](https://xdaforums.com/f/xiaomi-poco-f7-redmi-turbo-4-pro.12935/)
 
 #### Windows
 
