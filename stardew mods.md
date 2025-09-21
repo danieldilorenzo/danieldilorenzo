@@ -86,6 +86,11 @@ Baixe  o Zip, descompacte e instale de acordo com as [instruções](https://star
 
 - [**Download Oasis Greenhouse**](https://www.nexusmods.com/stardewvalley/mods/3969)
 
+#### - Visible Fishs
+
+> Torna os peixes visíveis em lagos, rios e lagoas
+
+-[**Download Visible Fishs**](https://www.nexusmods.com/stardewvalley/mods/8897)
 
 ### MODS PARA JOGABILIDADE
 
