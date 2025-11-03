@@ -141,6 +141,12 @@ https://github.com/danieldilorenzo/danieldilorenzo/blob/main/stardew%20mods.md
 
 #### Xiaomi
 
+
+- [XDA Poco F7](https://xdaforums.com/f/xiaomi-poco-f7-redmi-turbo-4-pro.12935/)
+- [Firmware Poco F7](https://xmfirmwareupdater.com/firmware/onyx/)
+- [Forum Xiaomi.eu Onyx] _- a adicionar_
+- [Xiaomi.eu Onyx Download](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/HyperOS-STABLE-RELEASES/HyperOS2.0/)
+<!--
 - [XDA Poco X5 PRO](https://xdaforums.com/f/xiaomi-poco-x5-pro.12721/)
 - [Firmware Redwood](https://xmfirmwareupdater.com/firmware/redwood/)
 - [Forum Xiaomi.eu Redwood](https://xiaomi.eu/community/forums/poco-x5-5g-pro-5g-redmi-note-12-pro-speed.225/)
@@ -149,7 +155,7 @@ https://github.com/danieldilorenzo/danieldilorenzo/blob/main/stardew%20mods.md
 - [Rom Matrixx](https://www.projectmatrixx.org/downloads/redwood)
 - [Rom AOSPA Redwood](https://sourceforge.net/projects/poco-x5-pro-roms/files/Aospa/Uvite/)
 - [Rom Project Sakura Redwood](https://projectsakura.me/download/#/redwood)
-- [XDA Poco F7](https://xdaforums.com/f/xiaomi-poco-f7-redmi-turbo-4-pro.12935/)
+-->
 
 #### Windows
 
