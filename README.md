@@ -63,15 +63,25 @@ https://github.com/danieldilorenzo/danieldilorenzo/blob/main/stardew%20mods.md
 
 ## :books: **What do I study**
 
+<!--
+
 [![HTML5 Badge](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)](https://www.origamid.com/curso/html-e-css-para-iniciantes)
 [![JavaScript Badge](https://img.shields.io/badge/JavaScript-%23323330.svg??style=flat-square&logo=javascript&logoColor=%23F7DF1A&)](https://www.origamid.com/curso/javascript-completo-es6/)
+-->
+
+[![Python Badge](https://img.shields.io/badge/Python-14354C?style=flat&logo=python&logoColor=white)](https://www.udemy.com/course/100-days-of-code)
+
+
 
 ## :dart: **Goals**
 
+- [ ] Learn Python
+<!--
 - [ ] Learn HTML and CSS
 - [ ] Learn Javascript
 - [ ] Make a to-do list
 - [ ] Make a pokedex
+-->
 
 ## 🛠️ **Working Projects** 
 
@@ -118,6 +128,7 @@ https://github.com/danieldilorenzo/danieldilorenzo/blob/main/stardew%20mods.md
 - [Markdown Guide](https://www.markdownguide.org/)
 - [Markdown Badges](https://github.com/Ileriayo/markdown-badges)
 - [More Badges](https://github.com/henriquesebastiao/badges)
+- [More more Badges!!](https://github.com/alexandresanlim/Badges4-README.md-Profile)
 - [Quickstart for writing a Markdown on GitHub](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/quickstart-for-writing-on-github)
 - [MDN Web Docs](https://developer.mozilla.org/pt-BR/)
 - [HTML - MDN Web Docs](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
