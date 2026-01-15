@@ -7,9 +7,6 @@
 <h3><p align="center"><b>👋 Hello! Welcome to Daniel Di Lorenzo's profile.</b></p></h3>
 <br>
 
-
-
-
 <!--
 **danieldilorenzo/danieldilorenzo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -34,8 +31,9 @@ A father to Nutella and Laka, while always working on developing my skills to, h
 
 ### :video_game: **Play with me**
 
-[![Steam Badge](https://img.shields.io/badge/Steam-%23000000.svg?style=flat-square&logo=steam&logoColor=white&link=https://steamcommunity.com/profiles/76561198144395953/)](https://steamcommunity.com/profiles/76561198144395953/)
-[![Steam_Badge](https://img.shields.io/badge/Como%20configuro%20meus%20mods%20no%20Stardew%20Valley-%23000000.svg?style=flat-square&logo=steam&logoColor=white&link=https://github.com/danieldilorenzo/danieldilorenzo/blob/main/stardew%20mods.md)](https://github.com/danieldilorenzo/danieldilorenzo/blob/main/stardew%20mods.md)
+<br>
+
+[![Steam Badge](https://img.shields.io/badge/Daniel%20Di%20Lorenzo%20on%20Steam-%23000000.svg?style=flat-square&logo=steam&logoColor=white&link=https://steamcommunity.com/profiles/76561198144395953/)](https://steamcommunity.com/profiles/76561198144395953/)
 
 <br>
 
@@ -113,7 +111,15 @@ https://github.com/danieldilorenzo/danieldilorenzo/blob/main/stardew%20mods.md
 
 ### 🛠️ **Working Projects** 
 
-[![Working projects](https://img.shields.io/badge/How%20I%20install%20Linux-1793D1?style=flat-square&logo=linux&logoColor=white&link=https://github.com/danieldilorenzo/install_linux)](https://github.com/danieldilorenzo/install_linux)
+[![Working projects](https://img.shields.io/badge/Linux-How%20I%20install%20Linux-1793D1?style=flat-square&logo=linux&logoColor=white&link=https://github.com/danieldilorenzo/install_linux)](https://github.com/danieldilorenzo/install_linux)
+
+[![Python Badge](https://img.shields.io/badge/Python%20-100%20days%20of%20code%20in%20Python-14354C?style=flat&logo=python&logoColor=white)](https://github.com/danieldilorenzo/100-days-of-code-Python)
+
+[![Steam_Badge](https://img.shields.io/badge/Como%20configuro%20meus%20mods%20no%20Stardew%20Valley-%23000000.svg?style=flat-square&logo=steam&logoColor=white&link=https://github.com/danieldilorenzo/danieldilorenzo/blob/main/stardew%20mods.md)](https://github.com/danieldilorenzo/danieldilorenzo/blob/main/stardew%20mods.md)
+
+
+
+
 
 <br>
 
