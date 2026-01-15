@@ -32,8 +32,13 @@ A father to Nutella and Laka, while always working on developing my skills to, h
 ### :video_game: **Play with me**
 
 <br>
-
+<!-- Flat Square
 [![Steam Badge](https://img.shields.io/badge/Daniel%20Di%20Lorenzo%20on%20Steam-%23000000.svg?style=flat-square&logo=steam&logoColor=white&link=https://steamcommunity.com/profiles/76561198144395953/)](https://steamcommunity.com/profiles/76561198144395953/)
+-->
+<!-- For THe Badge -->
+
+[![Steam Badge](https://img.shields.io/badge/Daniel%20Di%20Lorenzo%20on%20Steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white&link=https://steamcommunity.com/profiles/76561198144395953/)](https://steamcommunity.com/profiles/76561198144395953/)
+
 
 <br>
 
@@ -56,20 +61,35 @@ https://github.com/danieldilorenzo/danieldilorenzo/blob/main/stardew%20mods.md
 
 ***Actually:***
 
-[![Fedora](https://img.shields.io/badge/Fedora-294172?style=flat-square&logo=fedora&logoColor=white&link=https://fedoraproject.org/)](https://fedoraproject.org/)
+<!--[![Fedora](https://img.shields.io/badge/Fedora-294172?style=flat-square&logo=fedora&logoColor=white&link=https://fedoraproject.org/)](https://fedoraproject.org/) # Flat Square -->
+
+
+[![Fedora](https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white&link=https://fedoraproject.org/)](https://fedoraproject.org/)  <!-- For The Badge -->
+
 
 
 
 ***Also can use:***
 
+[![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge&link=https://archlinux.org)](https://archlinux.org/)
+[![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white&link=debian.org)](https://debian.org)
+[![NixOS](https://img.shields.io/badge/NixOS-5277C3?style=for-the-badge&logo=nixos&logoColor=white&link=https://nixos.org/)](https://nixos.org/)
+[![openSUSE](https://img.shields.io/badge/openSUSE%20Tumbleweed-%2364B345?style=for-the-badge&logo=openSUSE&logoColor=white&link=https://get.opensuse.org/tumbleweed/)](https://get.opensuse.org/tumbleweed/)
+
+<!-- Flat Square
 [![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=flat-square&link=https://archlinux.org)](https://archlinux.org/)
 [![Debian](https://img.shields.io/badge/Debian-D70A53?style=flat-square&logo=debian&logoColor=white&link=debian.org)](https://debian.org)
 [![NixOS](https://img.shields.io/badge/NixOS-5277C3?style=flat-square&logo=nixos&logoColor=white&link=https://nixos.org/)](https://nixos.org/)
 [![openSUSE](https://img.shields.io/badge/openSUSE%20Tumbleweed-%2364B345?style=flat-square&logo=openSUSE&logoColor=white&link=https://get.opensuse.org/tumbleweed/)](https://get.opensuse.org/tumbleweed/)
-
+-->
 ***Always with:***
 
+[![KDE Badge](https://img.shields.io/badge/KDE%20Plasma-1793D1?style=for-the-badge&logo=kde&logoColor=white&link=https://kde.org)](https://kde.org)
+
+
+<!-- Flat Square
 [![KDE Badge](https://img.shields.io/badge/KDE%20Plasma-1793D1?style=flat-square&logo=kde&logoColor=white&link=https://kde.org)](https://kde.org)
+-->
 <!--*[![Steam Badge](https://img.shields.io/badge/GNOME-black?style=flat-square&logo=gnome&logoColor=white&link=https://gnome.org)](https://gnome.org) -->
 
 <br>
@@ -92,8 +112,13 @@ https://github.com/danieldilorenzo/danieldilorenzo/blob/main/stardew%20mods.md
 [![HTML5 Badge](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)](https://www.origamid.com/curso/html-e-css-para-iniciantes)
 [![JavaScript Badge](https://img.shields.io/badge/JavaScript-%23323330.svg??style=flat-square&logo=javascript&logoColor=%23F7DF1A&)](https://www.origamid.com/curso/javascript-completo-es6/)
 -->
-
+<!-- Flat Square
 [![Python Badge](https://img.shields.io/badge/Python-14354C?style=flat&logo=python&logoColor=white)](https://www.udemy.com/course/100-days-of-code)
+-->
+
+<!-- For The Badge -->
+[![Python Badge](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)](https://www.udemy.com/course/100-days-of-code)
+
 
 <br>
 
@@ -110,14 +135,17 @@ https://github.com/danieldilorenzo/danieldilorenzo/blob/main/stardew%20mods.md
 <br>
 
 ### 🛠️ **Working Projects** 
-
+<!-- Flat Square
 [![Working projects](https://img.shields.io/badge/Linux-How%20I%20install%20Linux-1793D1?style=flat-square&logo=linux&logoColor=white&link=https://github.com/danieldilorenzo/install_linux)](https://github.com/danieldilorenzo/install_linux)
+[![Python Badge](https://img.shields.io/badge/Python%20-100%20days%20of%20code%20in%20Python-14354C?style=flat-square&logo=python&logoColor=white)](https://github.com/danieldilorenzo/100-days-of-code-Python)
+[![Steam_Badge](https://img.shields.io/badge/Steam%20-%20Como%20configuro%20meus%20mods%20no%20Stardew%20Valley-%23000000.svg?style=flat-square&logo=steam&logoColor=white&link=https://github.com/danieldilorenzo/danieldilorenzo/blob/main/stardew%20mods.md)](https://github.com/danieldilorenzo/danieldilorenzo/blob/main/stardew%20mods.md)
+-->
 
-[![Python Badge](https://img.shields.io/badge/Python%20-100%20days%20of%20code%20in%20Python-14354C?style=flat&logo=python&logoColor=white)](https://github.com/danieldilorenzo/100-days-of-code-Python)
+[![Working projects](https://img.shields.io/badge/Linux-How%20I%20install%20Linux-1793D1?style=for-the-badge&logo=linux&logoColor=white&link=https://github.com/danieldilorenzo/install_linux)](https://github.com/danieldilorenzo/install_linux)
 
-[![Steam_Badge](https://img.shields.io/badge/Como%20configuro%20meus%20mods%20no%20Stardew%20Valley-%23000000.svg?style=flat-square&logo=steam&logoColor=white&link=https://github.com/danieldilorenzo/danieldilorenzo/blob/main/stardew%20mods.md)](https://github.com/danieldilorenzo/danieldilorenzo/blob/main/stardew%20mods.md)
+[![Python Badge](https://img.shields.io/badge/Python%20-100%20days%20of%20code%20in%20Python-14354C?style=for-the-badge&logo=python&logoColor=white)](https://github.com/danieldilorenzo/100-days-of-code-Python)
 
-
+[![Steam_Badge](https://img.shields.io/badge/Steam%20-%20Como%20configuro%20meus%20mods%20no%20Stardew%20Valley-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white&link=https://github.com/danieldilorenzo/danieldilorenzo/blob/main/stardew%20mods.md)](https://github.com/danieldilorenzo/danieldilorenzo/blob/main/stardew%20mods.md)
 
 
 
@@ -209,13 +237,26 @@ https://github.com/danieldilorenzo/danieldilorenzo/blob/main/stardew%20mods.md
 - [Pegar Bitlocker Windows 11](https://aka.ms/myrecoverykey)
 - [Resetar senha Windows no Linux](https://opensource.com/article/18/3/how-reset-windows-password-linux)
   
-## 📫 Contact me
+### 📫 Contact me
 
+<!-- Flat Square
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:danieldilorenzoferreira@gmail.com)](mailto:danieldilorenzoferreira@gmail.com)
+-->
+<!-- For The Badge -->
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:danieldilorenzoferreira@gmail.com)](mailto:danieldilorenzoferreira@gmail.com)
+
 
 <br>
-
+<!-- Flat Square
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103?style=flat-square)](https://opensource.org/) [![MIT Licence](https://badges.frapsoft.com/os/mit/mit.svg?v=103?style=flat-square)](https://opensource.org/licenses/mit-license.php)
+-->
+
+<!-- For The Badge -->
+
+[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103&style=for-the-badge)](https://opensource.org/) [![MIT Licence](https://badges.frapsoft.com/os/mit/mit.svg?v=103&style=for-the-badge)](https://opensource.org/licenses/mit-license.php)
+
+
+
 
 Thanks for visiting! 👋
 
