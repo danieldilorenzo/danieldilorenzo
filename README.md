@@ -1,7 +1,19 @@
-## 👋 Hi there
+<p align="center">
+  <img src="https://github.com/danieldilorenzo/danieldilorenzo/blob/main/gemini_daniel.png" width="300">
+</p>
+
+
+
+<h3><p align="center"><b>👋 Hello! Welcome to Daniel Di Lorenzo's profile.</b></p></h3>
+<br>
+
+
+
+
 <!--
 **danieldilorenzo/danieldilorenzo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+👋 Hello! Welcome to Daniel Di Lorenzo's profile.
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -23,7 +35,6 @@ A father to Nutella and Laka, while always working on developing my skills to, h
 ### :video_game: **Play with me**
 
 [![Steam Badge](https://img.shields.io/badge/Steam-%23000000.svg?style=flat-square&logo=steam&logoColor=white&link=https://steamcommunity.com/profiles/76561198144395953/)](https://steamcommunity.com/profiles/76561198144395953/)
-
 [![Steam_Badge](https://img.shields.io/badge/Como%20configuro%20meus%20mods%20no%20Stardew%20Valley-%23000000.svg?style=flat-square&logo=steam&logoColor=white&link=https://github.com/danieldilorenzo/danieldilorenzo/blob/main/stardew%20mods.md)](https://github.com/danieldilorenzo/danieldilorenzo/blob/main/stardew%20mods.md)
 
 <br>
@@ -124,7 +135,7 @@ https://github.com/danieldilorenzo/danieldilorenzo/blob/main/stardew%20mods.md
 
 ### :globe_with_meridians: **Useful links**
 
-#### Linux
+#### 🐧Linux
 
 - [KDE Apps](https://apps.kde.org/pt-br/)
 - [KDE Blogs](https://blogs.kde.org/)
@@ -140,7 +151,7 @@ https://github.com/danieldilorenzo/danieldilorenzo/blob/main/stardew%20mods.md
 - [Gnome Discourse](https://discourse.gnome.org/)
 - [openSUSE Slowroll ISO](https://download.opensuse.org/slowroll/iso/?P=*-DVD-*.iso)
 
-#### Development
+#### 💻Development
 
 - [Roadmap.sh](https://roadmap.sh/)
 - [Google Tech Dev Guide](https://techdevguide.withgoogle.com/)
@@ -157,26 +168,22 @@ https://github.com/danieldilorenzo/danieldilorenzo/blob/main/stardew%20mods.md
 - [Iconify](https://iconify.design/)
 
 
-#### Automation (RobotFramework and Cypress)
+#### 🤖Automation (RobotFramework and Cypress)
 
 - [RobotFramework](https://robotframework.org/)
 - [Cypress](https://www.cypress.io/)
 - [Cypress Comands](https://docs.cypress.io/api/commands/get)
 
-
-#### Android
-
-- [Play Integrity Fix](https://github.com/chiteroman/PlayIntegrityFix/releases/)
-- [Zygisk](https://github.com/Dr-TSNG/ZygiskNext/releases)
-- [Como compilar o Android](https://www.youtube.com/watch?v=vX8t9l8gnT0)
-
-
-#### Xiaomi
+#### 📱Xiaomi and Android
 
 
 - [XDA Poco F7](https://xdaforums.com/f/xiaomi-poco-f7-redmi-turbo-4-pro.12935/)
 - [Firmware Poco F7](https://xmfirmwareupdater.com/firmware/onyx/)
 - [Xiaomi.eu Onyx Download](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/HyperOS-STABLE-RELEASES/HyperOS3.0/)
+- [Play Integrity Fix](https://github.com/chiteroman/PlayIntegrityFix/releases/)
+- [Zygisk](https://github.com/Dr-TSNG/ZygiskNext/releases)
+- [Como compilar o Android](https://www.youtube.com/watch?v=vX8t9l8gnT0)
+
 <!--
 - [XDA Poco X5 PRO](https://xdaforums.com/f/xiaomi-poco-x5-pro.12721/)
 - [Firmware Redwood](https://xmfirmwareupdater.com/firmware/redwood/)
@@ -188,14 +195,15 @@ https://github.com/danieldilorenzo/danieldilorenzo/blob/main/stardew%20mods.md
 - [Rom Project Sakura Redwood](https://projectsakura.me/download/#/redwood)
 -->
 
-#### Windows
+
+#### 💻Windows
 
 - [Format a USB using CMD](https://www.wikihow.com/Format-a-USB-Using-Cmd)
 - [Remove "The referenced account is currently locked and cannot be logged in"](https://vmserv.com.br/a-conta-referenciada-esta-atualmente-bloqueada-e-nao-pode-ser-logada/)
 - [Pegar Bitlocker Windows 11](https://aka.ms/myrecoverykey)
 - [Resetar senha Windows no Linux](https://opensource.com/article/18/3/how-reset-windows-password-linux)
   
-## Contact me
+## 📫 Contact me
 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:danieldilorenzoferreira@gmail.com)](mailto:danieldilorenzoferreira@gmail.com)
 
