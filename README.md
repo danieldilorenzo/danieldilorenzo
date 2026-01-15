@@ -1,9 +1,4 @@
 ## 👋 Hi there
-
-
-# Melhorar readme, adicionar mais interesses, jogos favoritos...
-
-
 <!--
 **danieldilorenzo/danieldilorenzo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -19,24 +14,36 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## :bearded_person: **About me**
+### :bearded_person: **About me**
 
 A father to Nutella and Laka, while always working on developing my skills to, hopefully, improve society.
 
-## :video_game: **Play with me**
+<br>
+
+### :video_game: **Play with me**
 
 [![Steam Badge](https://img.shields.io/badge/Steam-%23000000.svg?style=flat-square&logo=steam&logoColor=white&link=https://steamcommunity.com/profiles/76561198144395953/)](https://steamcommunity.com/profiles/76561198144395953/)
-[![Steam_Badge](https://img.shields.io/badge/Minha%20wishlist%20na%20Steam-%23000000.svg?style=flat-square&logo=steam&logoColor=white&link=https://steamcommunity.com/profiles/76561198144395953/)](https://store.steampowered.com/wishlist/id/danieldilorenzo/)
-
 
 [![Steam_Badge](https://img.shields.io/badge/Como%20configuro%20meus%20mods%20no%20Stardew%20Valley-%23000000.svg?style=flat-square&logo=steam&logoColor=white&link=https://github.com/danieldilorenzo/danieldilorenzo/blob/main/stardew%20mods.md)](https://github.com/danieldilorenzo/danieldilorenzo/blob/main/stardew%20mods.md)
 
+<br>
+
+### ⭐ **Favorite Games**
 
 <!--
 https://github.com/danieldilorenzo/danieldilorenzo/blob/main/stardew%20mods.md
 -->
 
-##  :penguin: **Distros**
+- Stardew Valley
+- Skyrim
+- Gris
+- Cult Of The Lamb
+- Potion Permit
+
+<br>
+
+
+###  :penguin: **Distros**
 
 ***Actually:***
 
@@ -56,7 +63,9 @@ https://github.com/danieldilorenzo/danieldilorenzo/blob/main/stardew%20mods.md
 [![KDE Badge](https://img.shields.io/badge/KDE%20Plasma-1793D1?style=flat-square&logo=kde&logoColor=white&link=https://kde.org)](https://kde.org)
 <!--*[![Steam Badge](https://img.shields.io/badge/GNOME-black?style=flat-square&logo=gnome&logoColor=white&link=https://gnome.org)](https://gnome.org) -->
 
-## :computer: **Hardware**
+<br>
+
+### :computer: **Hardware**
 
 - Xeon E5 2650 V4
 - HyperX Fury 2x16GB DDR4 2400MHz
@@ -65,7 +74,9 @@ https://github.com/danieldilorenzo/danieldilorenzo/blob/main/stardew%20mods.md
 - SSD Kingston A400 - 500GB
 - SSD Sandisk Plus 1TB
 
-## :books: **What do I study**
+<br>
+
+### :books: **What do I study**
 
 <!--
 
@@ -75,9 +86,9 @@ https://github.com/danieldilorenzo/danieldilorenzo/blob/main/stardew%20mods.md
 
 [![Python Badge](https://img.shields.io/badge/Python-14354C?style=flat&logo=python&logoColor=white)](https://www.udemy.com/course/100-days-of-code)
 
+<br>
 
-
-## :dart: **Goals**
+### :dart: **Goals**
 
 - [ ] Learn Python
 <!--
@@ -87,11 +98,15 @@ https://github.com/danieldilorenzo/danieldilorenzo/blob/main/stardew%20mods.md
 - [ ] Make a pokedex
 -->
 
-## 🛠️ **Working Projects** 
+<br>
+
+### 🛠️ **Working Projects** 
 
 [![Working projects](https://img.shields.io/badge/How%20I%20install%20Linux-1793D1?style=flat-square&logo=linux&logoColor=white&link=https://github.com/danieldilorenzo/install_linux)](https://github.com/danieldilorenzo/install_linux)
 
-## :iphone: **Devices**
+<br>
+
+### :iphone: **Devices**
 
 - Samsung Galaxy Y
 - LG Nexus 4
@@ -105,7 +120,9 @@ https://github.com/danieldilorenzo/danieldilorenzo/blob/main/stardew%20mods.md
 - Samsung S23 Ultra
 - Poco F7 _**(current device)**_
 
-## :globe_with_meridians: **Useful links**
+<br>
+
+### :globe_with_meridians: **Useful links**
 
 #### Linux
 
@@ -159,8 +176,7 @@ https://github.com/danieldilorenzo/danieldilorenzo/blob/main/stardew%20mods.md
 
 - [XDA Poco F7](https://xdaforums.com/f/xiaomi-poco-f7-redmi-turbo-4-pro.12935/)
 - [Firmware Poco F7](https://xmfirmwareupdater.com/firmware/onyx/)
-- [Forum Xiaomi.eu Onyx] _- a adicionar_
-- [Xiaomi.eu Onyx Download](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/HyperOS-STABLE-RELEASES/HyperOS2.0/)
+- [Xiaomi.eu Onyx Download](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/HyperOS-STABLE-RELEASES/HyperOS3.0/)
 <!--
 - [XDA Poco X5 PRO](https://xdaforums.com/f/xiaomi-poco-x5-pro.12721/)
 - [Firmware Redwood](https://xmfirmwareupdater.com/firmware/redwood/)
