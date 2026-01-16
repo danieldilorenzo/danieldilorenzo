@@ -1,4 +1,6 @@
-# Passos para flash rom
+### Passos para flash rom
+
+<br>
 
 > sudo adb reboot bootloader <br><br>
 > sudo fastboot devices <br><br>
@@ -10,7 +12,7 @@
 
 <br>
 
-# Descobrir a quanto tempo o Linux está instalado
+### Descobrir a quanto tempo o Linux está instalado
 
 
 > stat / | awk '/Birth: /{print $2 " " substr($3,1,5)}'
@@ -21,7 +23,9 @@ Ou
 
 <br>
 
-# Desbloquear WiFi para instalação Arch
+### Desbloquear WiFi para instalação Arch
+
+<br>
 
 > rfkill unblock wlan <br><br>
 > iwctl <br><br>
@@ -32,7 +36,7 @@ Ou
 
  <br>
 
- # Alterar o tempo de espera do Gnome antes de mostrar "Aplicativo X parou"<br>
+### Alterar o tempo de espera do Gnome antes de mostrar "Aplicativo X parou"<br>
  _Isso resolve um problema que tenho com a Steam, onde logo que eu abro aparece esse erro. Nunca ocorre no Plasma_
 
 <br>
@@ -41,7 +45,7 @@ Ou
 
 <br>
 
-# Descobrir no Fedora em que pasta está um programa
+### Descobrir no Fedora em que pasta está um programa
 
 <br>
 
@@ -49,6 +53,20 @@ Ou
 
 <br>
 
+### Como forçar a atualização do relógio Windows quando ele insiste em não sincronizar
+
+<br>
+
+> w32tm /config /manualpeerlist:"a.st1.ntp.br,b.st1.ntp.br,pool.ntp.org" /syncfromflags:manual /reliable:YES /update 
+>
+> net stop w32time && net start w32time 
+>
+> w32tm /resync /force
+
+
+
+
+<!--
 # NixOS
 
 - [NixOS Learn](https://nixos.org/learn/)
@@ -60,11 +78,16 @@ Ou
 - [NixOS & Flakes Book](https://nixos-and-flakes.thiscute.world/)
 
 <br>
+-->
+
 
 # Fonte
+
+<br>
 
 - https://linuxiac.com/how-to-find-linux-os-installation-date/
 - https://www.freecodecamp.org/news/how-to-install-arch-linux/
 - https://www.reddit.com/r/archlinux/comments/nnubzr/iwd_says_wlan0_is_off/?onetap_auto=true&one_tap=true
 - https://wiki.archlinux.org/title/Network_configuration/Wireless#Rfkill_caveat
 - https://www.reddit.com/r/gnome/comments/hzkuwx/how_gnome_treats_unresponsive_applications_can_i/
+
