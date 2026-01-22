@@ -110,6 +110,108 @@ Baixe  o Zip, descompacte e instale de acordo com as [instruções](https://star
 
 - [**Download Events Expansion**](https://www.nexusmods.com/stardewvalley/mods/9042)
 
+<br>
+
+## Criando atalhos
+
+<br>
+
+> Após adicionar o SMAPI, podemos criar atalhos para diferenciar quando queremos jogar com mods e sem mods. Além disso, podemos criar um backup automático
+
+Criar um arquivo vazio com o nome "Stardew_Valley.desktop" (os ícones estão no meu Github)
+
+```
+DESKTOP_DIR=$(xdg-user-dir DESKTOP)
+
+[Desktop Entry]
+Comment[pt_BR]=
+Comment=
+Exec=sh -c ''\\''/home/daniel/.local/share/Steam/steamapps/common/Stardew Valley/StardewValley-original'\\''; /home/daniel/backup_stardew.sh'
+GenericName[pt_BR]=
+GenericName=
+Icon=/home/daniel/Imagens/stardew_vanilla.png
+MimeType=
+Name[pt_BR]=Stardew ORIGINAL
+Name=Stardew ORIGINAL
+Path=
+StartupNotify=true
+Terminal=false
+TerminalOptions=
+Type=Application
+Version=1.0
+X-KDE-SubstituteUID=false
+X-KDE-Username=
+```
+
+Para o jogo com mods
+
+Criar um arquivo vazio com o nome "Stardew_Mods.desktop"
+
+```
+DESKTOP_DIR=$(xdg-user-dir DESKTOP)
+
+[Desktop Entry]
+Comment[pt_BR]=
+Comment=
+Exec=sh -c ''\\''/home/daniel/.local/share/Steam/steamapps/common/Stardew Valley/StardewModdingAPI'\\''; /home/daniel/backup_stardew.sh'
+GenericName[pt_BR]=
+GenericName=
+Icon=/home/daniel/Imagens/stardew_mods.png
+MimeType=
+Name[pt_BR]=Stardew Mods
+Name=Stardew Mods
+Path=
+StartupNotify=true
+Terminal=false
+TerminalOptions=
+Type=Application
+Version=1.0
+X-KDE-SubstituteUID=false
+X-KDE-Username=
+```
+
+<br>
+<br>
+
+## Criando Backup
+<br>
+Para configurar para o sistema fazer um backup automático sempre que você fecha o jogo. Copie isso e cole no terminal
+<br>
+
+```
+
+cat << 'EOF' > ~/backup_stardew.sh
+#!/bin/bash
+
+# Configurações de pastas
+SAVE_DIR="$HOME/.config/StardewValley/Saves"
+BACKUP_DIR="$HOME/Stardew_Backups"
+TIMESTAMP=$(date +"%d-%m-%Y_%H-%M")
+
+# Cria a pasta de backup se ela não existir
+mkdir -p "$BACKUP_DIR"
+
+# Faz o backup compactado (.tar.gz)
+tar -czf "$BACKUP_DIR/backup_$TIMESTAMP.tar.gz" -C "$SAVE_DIR" .
+
+# LIMPEZA: Mantém apenas os 3 mais recentes e apaga o resto
+ls -t "$BACKUP_DIR"/backup_*.tar.gz | tail -n +2 | xargs -r rm
+
+echo "Backup de Stardew Valley realizado com sucesso!"
+EOF
+
+# Dá permissão para o script rodar
+chmod +x ~/backup_stardew.sh
+
+```
+<br>
+
+Para restaurar, pegue esse arquivo, descompacte e substitua pelo conteúdo na pasta
+
+>/home/daniel/.config/StardewValley/Saves/
+<br>
+
+
 ## Entre em contato comigo!
 
 Se você encontrou essa página aleatóriamente na internet e gostou, ou tem alguma crítica / sugestão, sinta-se livre para me entrar em contato comigo  :smile:
