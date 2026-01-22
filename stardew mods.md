@@ -173,6 +173,17 @@ X-KDE-Username=
 <br>
 <br>
 
+
+
+Cole esses atalhos em 
+
+>/home/daniel/.local/share/applications/
+
+Após isso, colar no terminal para o KDE fazer o atalho na sessão "Jogos"
+```
+update-desktop-database ~/.local/share/applications/ 
+```
+
 ## Criando Backup
 <br>
 Para configurar para o sistema fazer um backup automático sempre que você fecha o jogo. Copie isso e cole no terminal
@@ -210,6 +221,8 @@ Para restaurar, pegue esse arquivo, descompacte e substitua pelo conteúdo na pa
 
 >/home/daniel/.config/StardewValley/Saves/
 <br>
+
+
 
 
 ## Entre em contato comigo!
