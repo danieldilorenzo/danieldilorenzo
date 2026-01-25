@@ -22,7 +22,6 @@ Este script realiza três ações em sequência:
 
 
 
-Serviços a serem desinstalados no poco
 
 ## Verifica se o dispositivo está autorizado
 
@@ -33,6 +32,12 @@ if [[ $(adb devices | wc -l) -lt 3 ]]; then
     exit 1
 fi
 ```
+<br>
+
+### **Serviços a serem desinstalados no poco**
+
+<br>
+
 
 ## 1. Publicidade e Telemetria (Os mais importantes)
 
@@ -42,6 +47,8 @@ adb shell pm uninstall --user 0 com.miui.analytics     # Remove o Analytics (col
 adb shell pm uninstall --user 0 com.miui.daemon        # Remove o MiuiDaemon (coleta estatísticas e logs em segundo plano)
 adb shell pm uninstall --user 0 com.xiaomi.joyose      # Remove o Joyose (gerencia telemetria e pode limitar performance em jogos)
 ```
+<br>
+
 ## 2. Interface e Personalização
 
 ```bash
@@ -50,6 +57,8 @@ adb shell pm uninstall --user 0 com.miui.miwallpaper.carousel    # Remove o Carr
 adb shell pm uninstall --user 0 com.mi.globalminusscreen         # Remove o App Vault (tela de atalhos à esquerda da home)
 adb shell pm uninstall --user 0 com.miui.phrase                  # Remove o recurso de frases frequentes do teclado
 ```
+<br>
+
 
 ## 3. Aplicativos Nativos (Bloatware comum)
 
@@ -60,6 +69,8 @@ adb shell pm uninstall --user 0 com.miui.videoplayer    # Remove o Mi Video (pla
 adb shell pm uninstall --user 0 com.miui.player         # Remove o Mi Music (player de música nativo)
 adb shell pm uninstall --user 0 com.miui.notes          # Remove o app de Notas da Xiaomi
 ```
+<br>
+
 ## 4. Serviços de Nuvem e Conectividade
 
 ```bash
@@ -72,6 +83,8 @@ adb shell pm uninstall --user 0 com.xiaomi.midrop              # Remove o ShareM
 adb shell pm uninstall --user 0 com.miui.hybrid.accessory      # Remove o Mi Linker (integração entre dispositivos Xiaomi)
 adb shell pm uninstall --user 0 com.xiaomi.mi_connect.service  # Remove conectividade avançada com tablets/laptops da marca
 ```
+<br>
+
 ## 5. Utilitários Obsoletos ou de Regiões Estrangeiras
 
 ```bash
@@ -85,6 +98,7 @@ adb shell pm uninstall --user 0 com.android.printspooler       # Remove o servi�
 adb shell pm uninstall --user 0 com.miui.maintenancemode       # Remove o Modo de Manutenção
 ```
 
+<br>
 
 
 Dica Pro: Se após remover algo você se arrepender (por exemplo, o App de Notas), você pode reinstalar o serviço sem formatar o celular usando o comando: 
@@ -93,7 +107,7 @@ Dica Pro: Se após remover algo você se arrepender (por exemplo, o App de Notas
 ```adb shell cmd package install-existing [nome.do.pacote]```
 
 
-## Script para Linux com todos os serviços listados acima
+## ☑️ Script para Linux com todos os serviços listados acima
 
 VERIFICAR para não tirar algum importante
 
@@ -169,7 +183,9 @@ O AppOps (Application Operations) abaixo é uma camada mais profunda e silencios
 - "Este app pode rodar em segundo plano?"
 
 - "Este app pode ler a área de transferência?"
-  
+
+  <br>
+
 ```bash
 # Para o Instagram
 adb shell cmd appops set com.instagram.android RUN_IN_BACKGROUND ignore
@@ -199,6 +215,8 @@ done
 
 
 ```
+<br>
+
 
 ## 🤔 Resultados esperados
 
@@ -211,6 +229,7 @@ done
 >Status de com.xiaomi.wearable: RUN_IN_BACKGROUND: allow <br>
 >
 
+<br>
 
 
 ## 🧹 Fazer uma limpeza de arquivos e lixo depois de remover tudo
