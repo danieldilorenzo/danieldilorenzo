@@ -1,0 +1,108 @@
+Serviços a serem desinstalados no poco
+
+# 1. Publicidade e Telemetria (Os mais importantes)
+
+adb shell pm uninstall --user 0 com.miui.msa.global    # Remove o MSA (responsável pelos anúncios do sistema)
+adb shell pm uninstall --user 0 com.miui.analytics     # Remove o Analytics (coleta de dados de uso e comportamento)
+adb shell pm uninstall --user 0 com.miui.daemon        # Remove o MiuiDaemon (coleta estatísticas e logs em segundo plano)
+adb shell pm uninstall --user 0 com.xiaomi.joyose      # Remove o Joyose (gerencia telemetria e pode limitar performance em jogos)
+adb shell pm uninstall --user 0 com.miui.extservices   # Remove serviços extras de logs específicos do HyperOS
+
+2. Interface e Personalização
+
+adb shell pm uninstall --user 0 com.miui.miwallpaper.carousel    # Remove o Carrossel de Planos de Fundo (evita anúncios na tela de bloqueio)
+adb shell pm uninstall --user 0 com.mi.android.globalminusscreen  # Remove o App Vault (tela de atalhos à esquerda da home)
+adb shell pm uninstall --user 0 com.miui.phrase                  # Remove o recurso de frases frequentes do teclado
+
+
+3. Aplicativos Nativos (Bloatware comum)
+
+adb shell pm uninstall --user 0 com.xiaomi.mipicks      # Remove o GetApps (loja de apps da Xiaomi que envia muitas notificações)
+adb shell pm uninstall --user 0 com.miui.videoplayer    # Remove o Mi Video (player de vídeo nativo com propagandas)
+adb shell pm uninstall --user 0 com.miui.player         # Remove o Mi Music (player de música nativo)
+adb shell pm uninstall --user 0 com.miui.notes          # Remove o app de Notas da Xiaomi
+
+4. Serviços de Nuvem e Conectividade
+
+adb shell pm uninstall --user 0 com.miui.cloudservice          # Remove o Mi Cloud (serviço principal de nuvem da Xiaomi)
+adb shell pm uninstall --user 0 com.miui.cloudbackup           # Remove o Backup na nuvem da Xiaomi
+adb shell pm uninstall --user 0 com.miui.micloudsync           # Remove a sincronização de SMS e chamadas com a nuvem
+adb shell pm uninstall --user 0 com.milink.itv                 # Remove o Screencast (transmissão de tela)
+adb shell pm uninstall --user 0 com.xiaomi.midrop              # Remove o ShareMe (compartilhamento de arquivos estilo AirDrop)
+adb shell pm uninstall --user 0 com.miui.hybrid.accessory      # Remove o Mi Linker (integração entre dispositivos Xiaomi)
+adb shell pm uninstall --user 0 com.xiaomi.mi_connect.service  # Remove conectividade avançada com tablets/laptops da marca
+
+5. Utilitários Obsoletos ou de Regiões Estrangeiras
+
+adb shell pm uninstall --user 0 com.miui.yellowpage            # Remove o Páginas Amarelas (identificador de chamadas inútil no Brasil)
+adb shell pm uninstall --user 0 com.miui.vsimcore              # Remove o chip virtual para roaming internacional (V-SIM)
+adb shell pm uninstall --user 0 com.miui.bugreport             # Remove o Mi Feedback (ferramenta de reporte de erros)
+adb shell pm uninstall --user 0 com.miui.miservice             # Remove o app de Serviços e Suporte da Xiaomi
+adb shell pm uninstall --user 0 com.miui.translation.kingsoft  # Remove o motor de tradução embutido Kingsoft
+adb shell pm uninstall --user 0 com.android.printspooler       # Remove o serviço de impressão (se você não usa o celular para imprimir)
+adb shell pm uninstall --user 0 com.miui.maintenancemode       # Remove o Modo de Manutenção
+
+[!TIP] Dica Pro: Se após remover algo você se arrepender (por exemplo, o App de Notas), você pode reinstalar o serviço sem formatar o celular usando o comando: adb shell cmd package install-existing [nome.do.pacote]
+
+
+
+```
+#!/bin/bash
+
+# Lista de pacotes para remover
+PACKAGES=(
+    "com.miui.msa.global"
+    "com.miui.analytics"
+    "com.miui.daemon"
+    "com.xiaomi.joyose"
+    "com.miui.extservices"
+    "com.miui.miwallpaper.carousel"
+    "com.mi.android.globalminusscreen"
+    "com.miui.phrase"
+    "com.xiaomi.mipicks"
+    "com.miui.videoplayer"
+    "com.miui.player"
+    "com.miui.notes"
+    "com.miui.cloudservice"
+    "com.miui.cloudbackup"
+    "com.miui.micloudsync"
+    "com.milink.itv"
+    "com.xiaomi.midrop"
+    "com.miui.hybrid.accessory"
+    "com.xiaomi.mi_connect.service"
+    "com.miui.yellowpage"
+    "com.miui.vsimcore"
+    "com.miui.bugreport"
+    "com.miui.miservice"
+    "com.miui.translation.kingsoft"
+    "com.android.printspooler"
+    "com.miui.maintenancemode"
+)
+
+echo "--- Iniciando Debloat HyperOS 3 ---"
+echo "Certifique-se de que o dispositivo está conectado e a Depuração USB ativa."
+
+# Verifica se o adb está instalado
+if ! command -v adb &> /dev/null; then
+    echo "Erro: ADB não encontrado. Instale com 'sudo apt install adb' ou equivalente."
+    exit 1
+fi
+
+# Itera sobre a lista e remove os pacotes
+for package in "${PACKAGES[@]}"; do
+    echo "Removendo: $package"
+    adb shell pm uninstall --user 0 "$package"
+done
+
+echo "--- Processo concluído! Reinicie o celular. ---"
+
+```
+
+
+
+
+[!TIP] Script para Linux com todos os serviços listados acima
+
+VERIFICAR para não tirar algum importante
+
+Criar um arquivo .sh, dar permissões de execução e executar.
