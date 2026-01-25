@@ -226,7 +226,6 @@ done
 >Status de br.com.brainweb.ifood: RUN_IN_BACKGROUND: ignore <br>
 >Status de com.google.android.apps.maps: RUN_IN_BACKGROUND: ignore <br>
 >Status de com.mi.globalminusscreen: RUN_IN_BACKGROUND: ignore <br>
->Status de com.xiaomi.wearable: RUN_IN_BACKGROUND: allow <br>
 >
 
 <br>
