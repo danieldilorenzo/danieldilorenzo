@@ -33,10 +33,20 @@ Este script realiza três ações em sequência:
 
 ```bash
 
-if [[ $(adb devices | wc -l) -lt 3 ]]; then
-    echo "Erro: Dispositivo não encontrado ou não autorizado. Verifique o cabo e a tela do celular."
+# 1. Verifica binário
+if ! command -v adb &> /dev/null; then
+    echo "Erro: ADB não encontrado."
     exit 1
 fi
+echo "✅ ADB encontrado."
+
+# 2. Verifica conexão
+if [[ $(adb devices | wc -l) -lt 3 ]]; then
+    echo "❌ Erro: Dispositivo não encontrado ou não autorizado."
+    exit 1
+fi
+echo "✅ Dispositivo pronto para o debloat."
+
 ```
 <br>
 
