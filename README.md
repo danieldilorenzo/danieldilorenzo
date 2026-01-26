@@ -147,7 +147,7 @@ https://github.com/danieldilorenzo/danieldilorenzo/blob/main/stardew%20mods.md
 
 [![Steam_Badge](https://img.shields.io/badge/Steam%20-%20Como%20configuro%20meus%20mods%20no%20Stardew%20Valley-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white&link=https://github.com/danieldilorenzo/danieldilorenzo/blob/main/stardew%20mods.md)](https://github.com/danieldilorenzo/danieldilorenzo/blob/main/stardew%20mods.md)
 
-
+[![Xiaomi Badge](https://img.shields.io/badge/Xiaomi-Dicas%20Xiaomi-FF6900?style=for-the-badge&logo=xiaomi&logoColor=white)](https://github.com/danieldilorenzo/danieldilorenzo/blob/main/Dicas%20Xiaomi.md)
 
 <br>
 
