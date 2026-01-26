@@ -121,7 +121,21 @@ Criar um arquivo .sh, dar permissões de execução e executar.
 ```
 #!/bin/bash
 
-# Lista de pacotes para remover
+# 1. Verifica binário
+if ! command -v adb &> /dev/null; then
+    echo "Erro: ADB não encontrado."
+    exit 1
+fi
+echo "✅ ADB encontrado."
+
+# 2. Verifica conexão
+if [[ $(adb devices | wc -l) -lt 3 ]]; then
+    echo "❌ Erro: Dispositivo não encontrado ou não autorizado."
+    exit 1
+fi
+echo "✅ Dispositivo pronto para o debloat."
+
+# Removendo apps
 PACKAGES=(
     "com.miui.msa.global"
     "com.miui.analytics"
