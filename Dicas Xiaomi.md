@@ -148,7 +148,7 @@ PACKAGES=(
     "com.miui.translation.kingsoft"
     "com.android.printspooler"
     "com.miui.maintenancemode"
-    com.mi.appfinder
+    "com.mi.appfinder"
 )
 
 echo "--- Iniciando Debloat HyperOS 3 ---"
