@@ -1,6 +1,12 @@
 # 🚀 Guia de Otimização e Debloat: HyperOS (Xiaomi/POCO)
 
-Este guia contém o processo completo de limpeza e o script de automação para otimizar o HyperOS via Linux.
+
+Este guia contém o processo completo de limpeza e o script de automação para otimizar o HyperOS via Linux. 
+
+<br>
+
+O arquivo completo pode ser baixado [aqui](https://github.com/danieldilorenzo/danieldilorenzo/blob/main/HyperOS_Full_Clean.sh).
+
 
 ## 🛠 Pré-requisitos
 * **Sistema:** Linux.
