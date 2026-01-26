@@ -34,12 +34,12 @@ fi
 ```
 <br>
 
-### **Serviços a serem desinstalados no poco**
+## **Serviços a serem desinstalados no POCO**
 
 <br>
 
 
-## 1. Publicidade e Telemetria (Os mais importantes)
+### 1. Publicidade e Telemetria (Os mais importantes)
 
 ```bash
 adb shell pm uninstall --user 0 com.miui.msa.global    # Remove o MSA (responsável pelos anúncios do sistema)
@@ -49,7 +49,7 @@ adb shell pm uninstall --user 0 com.xiaomi.joyose      # Remove o Joyose (gerenc
 ```
 <br>
 
-## 2. Interface e Personalização
+### 2. Interface e Personalização
 
 ```bash
 
@@ -60,7 +60,7 @@ adb shell pm uninstall --user 0 com.miui.phrase                  # Remove o recu
 <br>
 
 
-## 3. Aplicativos Nativos (Bloatware comum)
+### 3. Aplicativos Nativos (Bloatware comum)
 
 ```bash
 
@@ -71,7 +71,7 @@ adb shell pm uninstall --user 0 com.miui.notes          # Remove o app de Notas 
 ```
 <br>
 
-## 4. Serviços de Nuvem e Conectividade
+### 4. Serviços de Nuvem e Conectividade
 
 ```bash
 
@@ -85,7 +85,7 @@ adb shell pm uninstall --user 0 com.xiaomi.mi_connect.service  # Remove conectiv
 ```
 <br>
 
-## 5. Utilitários Obsoletos ou de Regiões Estrangeiras
+### 5. Utilitários Obsoletos ou de Regiões Estrangeiras
 
 ```bash
 
@@ -101,15 +101,18 @@ adb shell pm uninstall --user 0 com.miui.maintenancemode       # Remove o Modo d
 <br>
 
 
-Dica Pro: Se após remover algo você se arrepender (por exemplo, o App de Notas), você pode reinstalar o serviço sem formatar o celular usando o comando: 
+> [!TIP]
+> Dica Pro: Se após remover algo você se arrepender (por exemplo, o App de Notas), você pode reinstalar o serviço sem formatar o celular usando o comando: 
 
 
 ```adb shell cmd package install-existing [nome.do.pacote]```
 
+<br>
 
 ## ☑️ Script para Linux com todos os serviços listados acima
 
-VERIFICAR para não tirar algum importante
+> [!IMPORTANT]
+>VERIFICAR para não tirar algum importante
 
 Criar um arquivo .sh, dar permissões de execução e executar.
 
@@ -204,7 +207,9 @@ adb shell cmd appops set com.mi.globalminusscreen RUN_IN_BACKGROUND ignore
 
 ```
 
-## 📱 Reinicie o celular. Agora rode o comando abaixo para se certificar que os serviços não estão rodando
+Após executar o comando, reiniciar o celular
+
+## 📱 Se certificar que os serviços não estão rodando
 
 ```bash
 
