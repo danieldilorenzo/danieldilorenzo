@@ -10,11 +10,16 @@ O arquivo completo pode ser baixado [aqui](https://github.com/danieldilorenzo/da
 
 ## 🛠 Pré-requisitos
 * **Sistema:** Linux.
-* **Ferramentas:** `adb` instalado.
+* **Ferramentas:** `adb` e `android-udev-rules `instalados.
 * **Celular:** Depuração USB ativa e autorizado no PC.
+* **Cabo:** Use sempre o cabo original do aparelho.
+* **Computador:** Caso use um computador, dê preferência sempre para as portas USB de trás. Nunca faça esse procedimento com tempestade / situações de risco de queda de energia brusca.
+* **Notebook:** Caso use um notebook, utilize ele sempre na tomada quando for fazer esse procedimento.
   
 <br>
 
+> [!TIP]
+> Dica: É interessante sempre antes de cada comando, rodar um `adb-devices` para ver se está respondendo
 ---
 
 <br>
@@ -201,7 +206,9 @@ adb shell cmd package bg-dexopt-job
 echo "--- Processo concluído! Reinicie o celular. ---"
 
 ```
+## Como reverter a remoção dos aplicativos
 
+```adb shell pm install-existing [nome_do_pacote]```
 
 ## 🛑 Impedir que os apps ignorem o "não iniciar automaticamente"
 
