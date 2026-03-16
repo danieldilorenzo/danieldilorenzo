@@ -92,6 +92,12 @@ Baixe  o Zip, descompacte e instale de acordo com as [instruções](https://star
 
 -[**Download Visible Fishs**](https://www.nexusmods.com/stardewvalley/mods/8897)
 
+#### - Dynamic Reflections
+
+> Adiciona reflexos em rios, lagos. Adiciona poças d'água
+
+-[**Download Dynamic Reflections**](https://www.nexusmods.com/stardewvalley/mods/12831)
+
 ### MODS PARA JOGABILIDADE
 
 
@@ -121,26 +127,18 @@ Baixe  o Zip, descompacte e instale de acordo com as [instruções](https://star
 Criar um arquivo vazio com o nome "Stardew_Valley.desktop" (os ícones estão no meu Github)
 
 ```
-DESKTOP_DIR=$(xdg-user-dir DESKTOP)
-
 [Desktop Entry]
-Comment[pt_BR]=
-Comment=
-Exec=sh -c ''\\''/home/daniel/.local/share/Steam/steamapps/common/Stardew Valley/StardewValley-original'\\''; /home/daniel/backup_stardew.sh'
-GenericName[pt_BR]=
-GenericName=
-Icon=/home/daniel/Imagens/stardew_vanilla.png
-MimeType=
-Name[pt_BR]=Stardew ORIGINAL
-Name=Stardew ORIGINAL
-Path=
-StartupNotify=true
+Name=Stardew Mods
+Name[pt_BR]=Stardew Mods
+Comment=Jogar Stardew Valley com Mods e Backup
+Exec=sh -c '"/home/daniel/.local/share/Steam/steamapps/common/Stardew Valley/StardewModdingAPI"; /home/daniel/backup_stardew.sh'
+Icon=/home/daniel/Imagens/stardew_mods.png
 Terminal=false
-TerminalOptions=
 Type=Application
+StartupNotify=true
 Version=1.0
-X-KDE-SubstituteUID=false
-X-KDE-Username=
+Categories=Game;
+
 ```
 
 Para o jogo com mods
@@ -148,26 +146,18 @@ Para o jogo com mods
 Criar um arquivo vazio com o nome "Stardew_Mods.desktop"
 
 ```
-DESKTOP_DIR=$(xdg-user-dir DESKTOP)
-
 [Desktop Entry]
-Comment[pt_BR]=
-Comment=
-Exec=sh -c ''\\''/home/daniel/.local/share/Steam/steamapps/common/Stardew Valley/StardewModdingAPI'\\''; /home/daniel/backup_stardew.sh'
-GenericName[pt_BR]=
-GenericName=
-Icon=/home/daniel/Imagens/stardew_mods.png
-MimeType=
-Name[pt_BR]=Stardew Mods
-Name=Stardew Mods
-Path=
-StartupNotify=true
+Name=Stardew ORIGINAL
+Name[pt_BR]=Stardew ORIGINAL
+Comment=Rodar Stardew sem Mods com Backup
+Exec=sh -c '"/home/daniel/.local/share/Steam/steamapps/common/Stardew Valley/StardewValley-original"; /home/daniel/backup_stardew.sh'
+Icon=/home/daniel/Imagens/stardew_vanilla.png
 Terminal=false
-TerminalOptions=
 Type=Application
+StartupNotify=true
 Version=1.0
-X-KDE-SubstituteUID=false
-X-KDE-Username=
+Categories=Game;
+
 ```
 
 <br>
