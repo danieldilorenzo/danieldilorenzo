@@ -90,13 +90,13 @@ Baixe  o Zip, descompacte e instale de acordo com as [instruções](https://star
 
 > Torna os peixes visíveis em lagos, rios e lagoas
 
--[**Download Visible Fishs**](https://www.nexusmods.com/stardewvalley/mods/8897)
+- [**Download Visible Fishs**](https://www.nexusmods.com/stardewvalley/mods/8897)
 
 #### - Dynamic Reflections
 
 > Adiciona reflexos em rios, lagos. Adiciona poças d'água
 
--[**Download Dynamic Reflections**](https://www.nexusmods.com/stardewvalley/mods/12831)
+- [**Download Dynamic Reflections**](https://www.nexusmods.com/stardewvalley/mods/12831)
 
 ### MODS PARA JOGABILIDADE
 
