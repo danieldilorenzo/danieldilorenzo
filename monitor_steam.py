@@ -58,3 +58,6 @@ print("--- Monitor de Preços do Dani ---")
 for id_jogo in meus_jogos:
     print(consultar_steam_full(id_jogo))
     time.sleep(1)
+
+# Executar no terminal com
+# python3 monitor_steam.py 
