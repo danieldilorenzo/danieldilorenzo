@@ -1,0 +1,69 @@
+# 🚀 Projeto Upgrade AM5: "Nave de Trabalho & Dev"
+
+Documentação técnica do upgrade de plataforma focado em desenvolvimento Python, Virtualização (KVM/QEMU) e Gaming em Linux (openSUSE/Fedora).
+
+## 🏗️ Configuração Base (Itens Obrigatórios)
+
+| Componente | Especificação Exata | Preço Justo (Base Mar/2026) |
+| :--- | :--- | :--- |
+| **Processador** | AMD Ryzen 7 7700 (8C/16T, c/ Cooler Wraith Prism) | R$ 1.850 - R$ 1.950 |
+| **Placa-mãe** | ASUS TUF Gaming B650-Plus WIFI (ATX) | R$ 1.450 - R$ 1.550 |
+| **Memória RAM** | 32GB (2x16GB) G.Skill Flare X5 DDR5-6000 CL30 (EXPO) | R$ 950 - R$ 1.050 |
+| **Gabinete** | Montech Air 903 Base (Preto, c/ 3x Fans 140mm) | R$ 330 - R$ 380 |
+| **SUBTOTAL BASE** | | **R$ 4.580 - R$ 4.930** |
+
+---
+
+<br>
+
+## ⚡ Opções de Alimentação (Tier A - Essencial para Zen 4)
+
+| Modelo | Preço Justo | Diferencial |
+| :--- | :--- | :--- |
+| **XPG Core Reactor 750W Gold** | R$ 580 - R$ 630 | 10 anos de garantia / Componentes Premium. |
+| **Corsair RM750e Gold** | R$ 620 - R$ 680 | Padrão ATX 3.0 / Silêncio absoluto. |
+
+---
+
+<br>
+
+## 🎮 Opções de GPU (Ecossistema AMD)
+
+| Modelo | Preço Justo | Status |
+| :--- | :--- | :--- |
+| **ASRock RX 6600 8GB** | R$ 0,00 | **Reutilizada do setup atual.** |
+| **RX 6750 XT 12GB** | R$ 2.100 - R$ 2.300 | Próximo passo (Melhor custo-benefício). |
+| **RX 7700 XT 12GB** | R$ 2.850 - R$ 3.100 | Próximo passo (Foco em IA/ROCm). |
+
+---
+
+<br>
+
+## 💾 Storage Atualizado (Reaproveitamento)
+* **1TB NVMe Kingston NV2** -> Unidade de Boot e Workspace Python.
+* **1TB SSD SanDisk Plus (SATA)** -> Biblioteca de Jogos e Backup Local.
+
+---
+
+<br>
+
+## 🛠️ Checklist de Implementação (Post-Install)
+
+1.  **BIOS:** Ativar perfil **AMD EXPO** para atingir 6000MHz.
+2.  **BIOS:** Verificar se o **PBO (Precision Boost Overdrive)** está ativo.
+3.  **Linux:** Garantir Kernel **6.5+** para suporte nativo ao Wi-Fi e Áudio.
+4.  **Storage:** Atualizar `/etc/fstab` com os UUIDs dos discos SATA remanescentes.
+5.  **Verificar suporte fwupd:** fwupdmgr get-devices (Validar se a ASUS B650-Plus está na lista de dispositivos gerenciáveis).
+
+---
+
+<br>
+
+## 💰 Estimativa de Investimento Total (Preços à Vista)
+
+* **Cenário "Pé no Chão" (Mantendo sua RX 6600):** ~ R$ 5.200,00 a R$ 5.500,00.
+* **Cenário "Upgrade Equilibrado" (Com RX 6750 XT):** ~ R$ 7.400,00 a R$ 7.800,00.
+* **Cenário "Nave Completa" (Com RX 7700 XT):** ~ R$ 8.100,00 a R$ 8.600,00.
+
+---
+*Documentação gerada para o Lab do Dani. Revisado em 24/03/2026.*
