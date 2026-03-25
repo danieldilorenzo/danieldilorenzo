@@ -1,4 +1,7 @@
-# 🚀 Projeto Upgrade AM5: "Nave de Trabalho & Dev"
+# 🚀 Projeto Upgrade AM5: "Trabalho & Dev"
+![Upgrade Status](https://img.shields.io/badge/Status-Em%20Progresso-bd93f9?style=for-the-badge)
+
+<br>
 
 Documentação técnica do upgrade de plataforma focado em desenvolvimento Python, Virtualização (KVM/QEMU) e Gaming em Linux (openSUSE/Fedora).
 
@@ -12,8 +15,8 @@ Documentação técnica do upgrade de plataforma focado em desenvolvimento Pytho
 
 ## 🏗️ Configuração Base (Itens Obrigatórios)
 
-[| Componente | Especificação Exata | Preço Justo (Base Mar/2026) |
-| :--- | :--- | :--- |](https://github.com/danieldilorenzo/danieldilorenzo/blob/main/plano_upgrade.md)
+| Componente | Especificação Exata | Preço Justo (Base Mar/2026) |
+| :--- | :--- | :--- |
 | **Processador** | AMD Ryzen 7 7700 (8C/16T, c/ Cooler Wraith Prism) | R$ 1.850 - R$ 1.950 |
 | **Placa-mãe** | ASUS TUF Gaming B650-Plus WIFI (ATX) | R$ 1.450 - R$ 1.550 |
 | **Memória RAM** | 32GB (2x16GB) G.Skill Flare X5 DDR5-6000 CL30 (EXPO) | R$ 950 - R$ 1.050 |
@@ -80,4 +83,5 @@ Documentação técnica do upgrade de plataforma focado em desenvolvimento Pytho
 
 ---
 *Documentação gerada para o Lab do Dani. Revisado em 24/03/2026.*
+
 
