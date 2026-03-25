@@ -156,9 +156,9 @@ https://github.com/danieldilorenzo/danieldilorenzo/blob/main/stardew%20mods.md
 
 [![Scripts Badge](https://img.shields.io/badge/Scripts-General_Automation_&_Support-1E1E2E?style=for-the-badge&logo=gnubash&logoColor=FFFFFF&labelColor=555555)](https://github.com/danieldilorenzo/General-Scripts/)
 
-[![Steam_Badge](https://img.shields.io/badge/Steam%20-%20Como%20configuro%20meus%20mods%20no%20Stardew%20Valley-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white&link=https://github.com/danieldilorenzo/danieldilorenzo/blob/main/stardew%20mods.md)](https://github.com/danieldilorenzo/danieldilorenzo/blob/main/stardew%20mods.md)
+[![Steam_Badge](https://img.shields.io/badge/Steam%20-%20Como%20configuro%20meus%20mods%20no%20Stardew%20Valley-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white&link=https://github.com/danieldilorenzo/General-Scripts/blob/main/Games/stardew_mods.md)](https://github.com/danieldilorenzo/General-Scripts/blob/main/Games/stardew_mods.md)
 
-[![Steam_Badge](https://img.shields.io/badge/Steam%20-%20Monitor%20de%20preço%20de%20jogos-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white&link=https://github.com/danieldilorenzo/danieldilorenzo/blob/main/monitor_steam.py)](https://github.com/danieldilorenzo/danieldilorenzo/blob/main/monitor_steam.py)
+[![Steam_Badge](https://img.shields.io/badge/Steam%20-%20Monitor%20de%20preço%20de%20jogos-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white&link=https://github.com/danieldilorenzo/General-Scripts/blob/main/Scripts/monitor_precos_steam.py)](https://github.com/danieldilorenzo/General-Scripts/blob/main/Scripts/monitor_precos_steam.py)
 
 [![Xiaomi Badge](https://img.shields.io/badge/Xiaomi-Guia%20de%20Otimização%20e%20Debloat%20HyperOS-FF6900?style=for-the-badge&logo=xiaomi&logoColor=white)](https://github.com/danieldilorenzo/General-Scripts/blob/main/Xiaomi/guia_de_otimizacao_e_debloat_hyperos.md)
 
