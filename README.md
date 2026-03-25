@@ -162,6 +162,10 @@ https://github.com/danieldilorenzo/danieldilorenzo/blob/main/stardew%20mods.md
 
 [![Xiaomi Badge](https://img.shields.io/badge/Xiaomi-Guia%20de%20Otimização%20e%20Debloat%20HyperOS-FF6900?style=for-the-badge&logo=xiaomi&logoColor=white)](https://github.com/danieldilorenzo/danieldilorenzo/blob/main/Guia%20de%20Otimizacao%20e%20Debloat%20HyperOS.md)
 
+[![Upgrade AM5](https://img.shields.io/badge/Upgrade%20AM5-%20novo%20PC-orange?style=for-the-badge&logo=amd&logoColor=white&color=6272a4)](https://github.com/danieldilorenzo/danieldilorenzo/blob/89a0f6d72aeb4ede41d1b425121ae92a003470f9/plano_upgrade.md)
+
+
+
 <br>
 
 ### :iphone: **Devices**
