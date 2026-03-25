@@ -249,18 +249,15 @@ https://github.com/danieldilorenzo/danieldilorenzo/blob/main/stardew%20mods.md
 <!-- For The Badge -->
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:danieldilorenzoferreira@gmail.com)](mailto:danieldilorenzoferreira@gmail.com)
 
-
 <br>
 <!-- Flat Square
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103?style=flat-square)](https://opensource.org/) [![MIT Licence](https://badges.frapsoft.com/os/mit/mit.svg?v=103?style=flat-square)](https://opensource.org/licenses/mit-license.php)
 -->
 
-<!-- For The Badge -->
+<!-- For The Badge
 
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103&style=for-the-badge)](https://opensource.org/) [![MIT Licence](https://badges.frapsoft.com/os/mit/mit.svg?v=103&style=for-the-badge)](https://opensource.org/licenses/mit-license.php)
-
-
-
+-->
 
 Thanks for visiting! 👋
 
@@ -272,3 +269,8 @@ Badge de <3 Software Livre
 https://github.com/ellerbrock/open-source-badges
 
  -->
+
+ ---
+⚖️ **License**
+
+This project is licensed under the GNU GPLv3 - see the [LICENSE](https://github.com/danieldilorenzo/General-Scripts/blob/main/LICENSE) file for details.
