@@ -270,7 +270,13 @@ https://github.com/ellerbrock/open-source-badges
 
  -->
 
- ---
-⚖️ **License**
+---
+⚖️ **Licença**
 
-This project is licensed under the GNU GPLv3 - see the [LICENSE](LICENSE) file for details.
+Este projeto está licenciado sob a GNU GPLv3 - consulte o arquivo [LICENSE](LICENSE) para mais detalhes.
+
+<br>
+
+⚖️ _**License**_
+
+_This project is licensed under the GNU GPLv3 - see the [LICENSE](LICENSE) file for details._
