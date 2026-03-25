@@ -10,8 +10,10 @@ Documentação técnica do upgrade de plataforma focado em desenvolvimento Pytho
 | Componente | Setup Atual (Xeon) | Upgrade Alvo (AM5) |
 | :--- | :--- | :--- |
 | **CPU** | ![Xeon](https://img.shields.io/badge/E5--2650%20V4-8be9fd?style=for-the-badge&logo=intel&logoColor=black) | ![Ryzen 7](https://img.shields.io/badge/RYZEN%207%207700-6272a4?style=for-the-badge&logo=amd&logoColor=white) |
-| **RAM** | ![DDR4](https://img.shields.io/badge/32GB%20DDR4-8be9fd?style=for-the-badge&logoColor=black) | ![DDR5](https://img.shields.io/badge/32GB%20DDR5-6272a4?style=for-the-badge) |
-| **GPU** | ![RX 6600](https://img.shields.io/badge/AMD%20RX%206600-8be9fd?style=for-the-badge&logo=amd&logoColor=black) | ![RX 7700 XT 12GB](https://img.shields.io/badge/AMD%20RX%207700%20XT-6272a4?style=for-the-badge&logo=amd&logoColor=white) |
+| **RAM** | ![DDR4](https://img.shields.io/badge/32GB%20DDR4-8be9fd?style=for-the-badge&logo=speedtest&logoColor=black) | ![DDR5](https://img.shields.io/badge/32GB%20DDR5-6272a4?style=for-the-badge&logo=speedtest&logoColor=white) |
+| **GPU** | ![RX 6600](https://img.shields.io/badge/RX%206600-8be9fd?style=for-the-badge&logo=amd&logoColor=black) | ![RX 7700 XT](https://img.shields.io/badge/RX%207700%20XT-6272a4?style=for-the-badge&logo=amd&logoColor=white) |
+
+
 
 ## 🏗️ Configuração Base (Itens Obrigatórios)
 
