@@ -273,4 +273,4 @@ https://github.com/ellerbrock/open-source-badges
  ---
 ⚖️ **License**
 
-This project is licensed under the GNU GPLv3 - see the [LICENSE](https://github.com/danieldilorenzo/General-Scripts/blob/main/LICENSE) file for details.
+This project is licensed under the GNU GPLv3 - see the [LICENSE](https://github.com/danieldilorenzo/danieldilorenzo/blob/main/LICENSE) file for details.
