@@ -145,6 +145,8 @@ https://github.com/danieldilorenzo/danieldilorenzo/blob/main/stardew%20mods.md
 
 [![Python Badge](https://img.shields.io/badge/Python%20-100%20days%20of%20code%20in%20Python-14354C?style=for-the-badge&logo=python&logoColor=white)](https://github.com/danieldilorenzo/100-days-of-code-Python)
 
+[![Scripts Badge](https://img.shields.io/badge/Scripts-General_Automation_&_Support-1E1E2E?style=for-the-badge&logo=gnubash&logoColor=FFFFFF&labelColor=555555)](https://github.com/danieldilorenzo/General-Scripts/)
+
 [![Steam_Badge](https://img.shields.io/badge/Steam%20-%20Como%20configuro%20meus%20mods%20no%20Stardew%20Valley-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white&link=https://github.com/danieldilorenzo/danieldilorenzo/blob/main/stardew%20mods.md)](https://github.com/danieldilorenzo/danieldilorenzo/blob/main/stardew%20mods.md)
 
 [![Steam_Badge](https://img.shields.io/badge/Steam%20-%20Monitor%20de%20preço%20de%20jogos-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white&link=https://github.com/danieldilorenzo/danieldilorenzo/blob/main/monitor_steam.py)](https://github.com/danieldilorenzo/danieldilorenzo/blob/main/monitor_steam.py)
