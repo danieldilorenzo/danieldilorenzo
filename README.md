@@ -180,6 +180,7 @@ https://github.com/danieldilorenzo/danieldilorenzo/blob/main/stardew%20mods.md
 - Poco X3 NFC
 - Poco X5 Pro 5G
 - Samsung S23 Ultra
+- Poco C85 _**(current device)**_
 - Poco F7 _**(current device)**_
 
 <br>
