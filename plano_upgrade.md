@@ -13,6 +13,16 @@ Documentação técnica do upgrade de plataforma focado em desenvolvimento Pytho
 | **RAM** | ![DDR4](https://img.shields.io/badge/32GB%20DDR4-6272a4?style=flat-square) | ![DDR5](https://img.shields.io/badge/32GB%20DDR5-bd93f9?style=flat-square) |
 | **GPU** | ![RX 6600](https://img.shields.io/badge/RX%206600-6272a4?style=flat-square&logo=amd&logoColor=white) | ![Mantida](https://img.shields.io/badge/RX%206600-bd93f9?style=flat-square&logo=amd&logoColor=white) |
 
+
+
+### 🚀 Status do Hardware
+
+| Componente | Setup Atual (Xeon) | Upgrade Alvo (AM5) |
+| :--- | :--- | :--- |
+| **CPU** | ![Xeon](https://img.shields.io/badge/E5--2650%20V4-8be9fd?style=for-the-badge&logo=intel&logoColor=black) | ![Ryzen 7](https://img.shields.io/badge/7%207700-6272a4?style=for-the-badge&logo=amd&logoColor=white) |
+| **RAM** | ![DDR4](https://img.shields.io/badge/32GB%20DDR4-8be9fd?style=for-the-badge&logoColor=black) | ![DDR5](https://img.shields.io/badge/32GB%20DDR5-6272a4?style=for-the-badge) |
+| **GPU** | ![RX 6600](https://img.shields.io/badge/RX%206600-8be9fd?style=for-the-badge&logo=amd&logoColor=black) | ![Mantida](https://img.shields.io/badge/RX%206600-6272a4?style=for-the-badge&logo=amd&logoColor=white) |
+
 ## 🏗️ Configuração Base (Itens Obrigatórios)
 
 | Componente | Especificação Exata | Preço Justo (Base Mar/2026) |
@@ -22,6 +32,24 @@ Documentação técnica do upgrade de plataforma focado em desenvolvimento Pytho
 | **Memória RAM** | 32GB (2x16GB) G.Skill Flare X5 DDR5-6000 CL30 (EXPO) | R$ 950 - R$ 1.050 |
 | **Gabinete** | Montech Air 903 Base (Preto, c/ 3x Fans 140mm) | R$ 330 - R$ 380 |
 | **SUBTOTAL BASE** | | **R$ 4.580 - R$ 4.930** |
+
+
+### 🚀 Status do Hardware
+
+| Componente | Setup Atual (Xeon) | Upgrade Alvo (AM5) |
+| :--- | :--- | :--- |
+| **CPU** | ![Xeon](https://img.shields.io/badge/E5--2650%20V4-6272a4?style=for-the-badge&logo=intel&logoColor=white) | ![Ryzen 7](https://img.shields.io/badge/7%207700-bd93f9?style=for-the-badge&logo=amd&logoColor=white) |
+| **RAM** | ![DDR4](https://img.shields.io/badge/32GB%20DDR4-6272a4?style=for-the-badge) | ![DDR5](https://img.shields.io/badge/32GB%20DDR5-bd93f9?style=for-the-badge) |
+| **GPU** | ![RX 6600](https://img.shields.io/badge/RX%206600-6272a4?style=for-the-badge&logo=amd&logoColor=white) | ![Mantida](https://img.shields.io/badge/RX%206600-bd93f9?style=for-the-badge&logo=amd&logoColor=white) |
+
+
+### 🚀 Status do Hardware
+
+| Componente | Setup Atual (Xeon) | Upgrade Alvo (AM5) |
+| :--- | :--- | :--- |
+| **CPU** | ![Xeon](https://img.shields.io/badge/E5--2650%20V4-8be9fd?style=for-the-badge&logo=intel&logoColor=black) | ![Ryzen 7](https://img.shields.io/badge/7%207700-bd93f9?style=for-the-badge&logo=amd&logoColor=white) |
+| **RAM** | ![DDR4](https://img.shields.io/badge/32GB%20DDR4-8be9fd?style=for-the-badge&logoColor=black) | ![DDR5](https://img.shields.io/badge/32GB%20DDR5-bd93f9?style=for-the-badge) |
+| **GPU** | ![RX 6600](https://img.shields.io/badge/RX%206600-8be9fd?style=for-the-badge&logo=amd&logoColor=black) | ![Mantida](https://img.shields.io/badge/RX%206600-bd93f9?style=for-the-badge&logo=amd&logoColor=white) |
 
 ---
 
