@@ -160,7 +160,7 @@ https://github.com/danieldilorenzo/danieldilorenzo/blob/main/stardew%20mods.md
 
 [![Steam_Badge](https://img.shields.io/badge/Steam%20-%20Monitor%20de%20preço%20de%20jogos-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white&link=https://github.com/danieldilorenzo/danieldilorenzo/blob/main/monitor_steam.py)](https://github.com/danieldilorenzo/danieldilorenzo/blob/main/monitor_steam.py)
 
-[![Xiaomi Badge](https://img.shields.io/badge/Xiaomi-Guia%20de%20Otimização%20e%20Debloat%20HyperOS-FF6900?style=for-the-badge&logo=xiaomi&logoColor=white)](https://github.com/danieldilorenzo/danieldilorenzo/blob/main/Guia%20de%20Otimizacao%20e%20Debloat%20HyperOS.md)
+[![Xiaomi Badge](https://img.shields.io/badge/Xiaomi-Guia%20de%20Otimização%20e%20Debloat%20HyperOS-FF6900?style=for-the-badge&logo=xiaomi&logoColor=white)](https://github.com/danieldilorenzo/General-Scripts/blob/main/Xiaomi/guia_de_otimizacao_e_debloat_hyperos.md)
 
 [![Upgrade AM5](https://img.shields.io/badge/Upgrade%20AM5-%20novo%20PC-orange?style=for-the-badge&logo=amd&logoColor=white&color=6272a4)](https://github.com/danieldilorenzo/danieldilorenzo/blob/main/plano_upgrade.md)
 
