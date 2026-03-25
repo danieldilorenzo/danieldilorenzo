@@ -1,9 +1,6 @@
 <p align="center">
   <img src="https://github.com/danieldilorenzo/danieldilorenzo/blob/main/gemini_daniel.png" width="300">
 </p>
-
-
-
 <h3><p align="center"><b>👋 Hello! Welcome to Daniel Di Lorenzo's profile.</b></p></h3>
 <br>
 
@@ -21,6 +18,18 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+-->
+
+<!--
+
+# Como pesquisar código no meu GitHub:
+# 1. Vá na busca global (na página inicial, topo da página onde está escrito "Type / to search")
+# 2. Use: "termo exato" user:danieldilorenzo
+# 3. Mude o filtro lateral (que fica ao lado esquerdo) para "Code"
+
+# Dica Extra: Se quiser pesquisar SÓ dentro de um repositório específico:
+# "termo" repo:danieldilorenzo/General-Scripts
+
 -->
 
 ### :bearded_person: **About me**
