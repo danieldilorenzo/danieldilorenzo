@@ -19,7 +19,7 @@ Documentação técnica do upgrade de plataforma focado em desenvolvimento Pytho
 
 | Componente | Especificação Exata | Preço Justo (Base Mar/2026) |
 | :--- | :--- | :--- |
-| **Processador** | AMD Ryzen 7 7700 (8C/16T, c/ Cooler Wraith Prism) | R$ 1.850 - R$ 1.950 |
+| **Processador** | AMD Ryzen 7 7700 (8 Cores / 16 Threads, c/ Cooler Wraith Prism) | R$ 1.850 - R$ 1.950 |
 | **Placa-mãe** | ASUS TUF Gaming B650-Plus WIFI (ATX) | R$ 1.450 - R$ 1.550 |
 | **Memória RAM** | 32GB (2x16GB) G.Skill Flare X5 DDR5-6000 CL30 (EXPO) | R$ 950 - R$ 1.050 |
 | **Gabinete** | Montech Air 903 Base (Preto, c/ 3x Fans 140mm) | R$ 330 - R$ 380 |
