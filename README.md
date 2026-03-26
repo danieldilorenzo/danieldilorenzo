@@ -109,7 +109,6 @@ https://github.com/danieldilorenzo/danieldilorenzo/blob/main/stardew%20mods.md
 - HyperX Fury 2x16GB DDR4 2400MHz
 - RX 6600 CLD 8G ASRock AMD Radeon, 8GB, GDDR6
 - NVME 1 TB Kingston NV2
-- SSD Kingston A400 - 500GB
 - SSD Sandisk Plus 1TB
 
 <br>
