@@ -23,6 +23,8 @@ Documentação técnica do upgrade de plataforma focado em desenvolvimento Pytho
 | **Placa-mãe** | ASUS TUF Gaming B650-Plus WIFI (ATX) | R$ 1.450 - R$ 1.550 |
 | **Memória RAM** | 32GB (2x16GB) G.Skill Flare X5 DDR5-6000 CL30 (EXPO) | R$ 950 - R$ 1.050 |
 | **Gabinete** | Montech Air 903 Base (Preto, c/ 3x Fans 140mm) | R$ 330 - R$ 380 |
+| **Cooler** | DeepCool AK400, 120mm | R$ 130 - R$ 180 |
+| **Fans Gabinete:** | Kit Corsair RS120 (3x120mm) | R$ 200 - R$ 350,00 | 
 | **SUBTOTAL BASE** | | **R$ 4.580 - R$ 4.930** |
 
 ---
