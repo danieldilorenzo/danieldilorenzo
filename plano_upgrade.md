@@ -81,11 +81,12 @@ Documentação técnica do upgrade de plataforma focado em desenvolvimento Pytho
 
 ## 💰 Estimativa de Investimento Total (Preços à Vista)
 
-* **Cenário "Pé no Chão" (Mantendo sua RX 6600):** ~ R$ 4.910 a R$ 5.460
-* **Cenário "Upgrade Equilibrado" (Com RX 6750 XT):** ~ R$ 7.400,00 a R$ 7.800,00.
-* **Cenário "Nave Completa" (Com RX 7700 XT):** ~ R$ 8.100,00 a R$ 8.600,00.
+* **Cenário "Pé no Chão" (Mantendo sua RX 6600):** ~ R$ 5.205,00 a R$ 5.990,00.
+* **Cenário "Upgrade Equilibrado" (Com RX 6750 XT):** ~ R$ 7.695,00 a R$ 8.330,00.
+* **Cenário "Nave Completa" (Com RX 7700 XT):** ~ R$ 8.395,00 a R$ 9.130,00.
 
 ---
-*Documentação gerada para o Lab do Dani. Revisado em 24/03/2026.*
+
+*Documentação gerada para o Lab do Dani. Revisado em 27/03/2026.*
 
 
