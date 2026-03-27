@@ -13,7 +13,7 @@ Documentação técnica do upgrade de plataforma focado em desenvolvimento Pytho
 | **RAM** | ![DDR4](https://img.shields.io/badge/32GB%20DDR4-8be9fd?style=for-the-badge&logo=speedtest&logoColor=black) | ![DDR5](https://img.shields.io/badge/32GB%20DDR5-6272a4?style=for-the-badge&logo=speedtest&logoColor=white) |
 | **GPU** | ![RX 6600](https://img.shields.io/badge/RX%206600-8be9fd?style=for-the-badge&logo=amd&logoColor=black) | ![RX 7700 XT](https://img.shields.io/badge/RX%207700%20XT-6272a4?style=for-the-badge&logo=amd&logoColor=white) |
 
-
+<br>
 
 ## 🏗️ Configuração Base (Itens Obrigatórios)
 
@@ -24,10 +24,19 @@ Documentação técnica do upgrade de plataforma focado em desenvolvimento Pytho
 | **Memória RAM** | 32GB (2x16GB) G.Skill Flare X5 DDR5-6000 CL30 (EXPO) | R$ 950 - R$ 1.050 |
 | **Gabinete** | Montech Air 903 Base (Preto, c/ 3x Fans 140mm) | R$ 330 - R$ 380 |
 | **Cooler** | DeepCool AK400, 120mm | R$ 130 - R$ 180 |
-| **Fans Gabinete:** | Kit Corsair RS120 (3x120mm) | R$ 200 - R$ 350,00 | 
+| **Fans Gabinete** | Kit Corsair RS120 (3x120mm) | R$ 200 - R$ 350,00 | 
 | **SUBTOTAL BASE** | | **R$ 4.910 - R$ 5.460** |
 
----
+<br>
+
+## 💎 Comprar em seguida (vou usando o que já tenho)
+
+| Componente | Especificação Exata | Preço Justo (Base Mar/2026) |
+| :--- | :--- | :--- |
+| **Placa de vídeo** | RX 7700 XT 12GB | R$ 2.850 - R$ 3.100 |
+| **Gabinete** | Montech Air 903 Base (Preto, c/ 3x Fans 140mm) | R$ 330 - R$ 380 |
+| **Cooler** | DeepCool AK400, 120mm | R$ 130 - R$ 180 |
+| **Fans Gabinete** | Kit Corsair RS120 (3x120mm) | R$ 200 - R$ 350,00 | 
 
 <br>
 
@@ -38,8 +47,6 @@ Documentação técnica do upgrade de plataforma focado em desenvolvimento Pytho
 | **XPG Core Reactor 750W Gold** | R$ 580 - R$ 630 | 10 anos de garantia / Componentes Premium. |
 | **Corsair RM750e Gold** | R$ 620 - R$ 680 | Padrão ATX 3.0 / Silêncio absoluto. |
 
----
-
 <br>
 
 ## 🎮 Opções de GPU (Ecossistema AMD)
@@ -49,8 +56,6 @@ Documentação técnica do upgrade de plataforma focado em desenvolvimento Pytho
 | **ASRock RX 6600 8GB** | R$ 0,00 | **Reutilizada do setup atual.** |
 | **RX 6750 XT 12GB** | R$ 2.100 - R$ 2.300 | Próximo passo (Melhor custo-benefício). |
 | **RX 7700 XT 12GB** | R$ 2.850 - R$ 3.100 | Próximo passo (Foco em IA/ROCm). |
-
----
 
 <br>
 
@@ -63,8 +68,6 @@ Documentação técnica do upgrade de plataforma focado em desenvolvimento Pytho
 | NVMe |  |  Projetos / desenvolvimento | :x: |
 | 1TB SSD SanDisk Plus (SATA) | Biblioteca de Jogos e Backup Local | Outros projetos | :white_check_mark: |
 
----
-
 <br>
 
 ## 🛠️ Checklist de Implementação (Post-Install)
@@ -75,8 +78,6 @@ Documentação técnica do upgrade de plataforma focado em desenvolvimento Pytho
 4.  **Storage:** Atualizar `/etc/fstab` com os UUIDs dos discos SATA remanescentes.
 5.  **Verificar suporte fwupd:** fwupdmgr get-devices (Validar se a ASUS B650-Plus está na lista de dispositivos gerenciáveis).
 
----
-
 <br>
 
 ## 💰 Estimativa de Investimento Total (Preços à Vista)
@@ -85,7 +86,7 @@ Documentação técnica do upgrade de plataforma focado em desenvolvimento Pytho
 * **Cenário "Upgrade Equilibrado" (Com RX 6750 XT):** ~ R$ 7.695,00 a R$ 8.330,00.
 * **Cenário "Nave Completa" (Com RX 7700 XT):** ~ R$ 8.395,00 a R$ 9.130,00.
 
----
+
 
 *Documentação gerada para o Lab do Dani. Revisado em 27/03/2026.*
 
