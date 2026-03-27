@@ -25,7 +25,7 @@ Documentação técnica do upgrade de plataforma focado em desenvolvimento Pytho
 | **Gabinete** | Montech Air 903 Base (Preto, c/ 3x Fans 140mm) | R$ 330 - R$ 380 |
 | **Cooler** | DeepCool AK400, 120mm | R$ 130 - R$ 180 |
 | **Fans Gabinete:** | Kit Corsair RS120 (3x120mm) | R$ 200 - R$ 350,00 | 
-| **SUBTOTAL BASE** | | **R$ 4.580 - R$ 4.930** |
+| **SUBTOTAL BASE** | | **R$ 4.910 - R$ 5.460** |
 
 ---
 
@@ -81,7 +81,7 @@ Documentação técnica do upgrade de plataforma focado em desenvolvimento Pytho
 
 ## 💰 Estimativa de Investimento Total (Preços à Vista)
 
-* **Cenário "Pé no Chão" (Mantendo sua RX 6600):** ~ R$ 5.200,00 a R$ 5.500,00.
+* **Cenário "Pé no Chão" (Mantendo sua RX 6600):** ~ R$ 4.910 a R$ 5.460
 * **Cenário "Upgrade Equilibrado" (Com RX 6750 XT):** ~ R$ 7.400,00 a R$ 7.800,00.
 * **Cenário "Nave Completa" (Com RX 7700 XT):** ~ R$ 8.100,00 a R$ 8.600,00.
 
