@@ -75,7 +75,7 @@ https://github.com/danieldilorenzo/danieldilorenzo/blob/main/stardew%20mods.md
 
 [![openSUSE](https://img.shields.io/badge/openSUSE%20Tumbleweed-%2364B345?style=for-the-badge&logo=openSUSE&logoColor=white&link=https://get.opensuse.org/tumbleweed/)](https://get.opensuse.org/tumbleweed/)
 [![Fedora](https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white&link=https://fedoraproject.org/)](https://fedoraproject.org/)  <!-- For The Badge -->
-![Linux Mint](https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white)
+![Linux Mint](https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white&link=https://linuxmint.com/)(https://linuxmint.com/)
 
 
 
