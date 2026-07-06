@@ -186,6 +186,14 @@ https://github.com/danieldilorenzo/danieldilorenzo/blob/main/stardew%20mods.md
 
 <br>
 
+### ⌚ **Smartwatches**
+
+- Samsung Galaxy Watch 7
+- Redmi Watch 5
+- Redmi Watch 6 _**(current device)**_
+   
+<br>
+
 ### :globe_with_meridians: **Useful links**
 
 #### 🐧Linux
