@@ -2,6 +2,10 @@
   <img src="https://github.com/danieldilorenzo/danieldilorenzo/blob/main/gemini_daniel.png" width="300">
 </p>
 <h3><p align="center"><b>👋 Hello! Welcome to Daniel Di Lorenzo's profile.</b></p></h3>
+<p align="center">
+  <i>39 years</i> | <i>São Paulo, Brazil</i>
+</p>
+
 <br>
 
 <!--
