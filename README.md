@@ -126,6 +126,10 @@ https://github.com/danieldilorenzo/danieldilorenzo/blob/main/stardew%20mods.md
 
 ![DevOps](https://img.shields.io/badge/DevOps-2088FF?style=for-the-badge&logo=powershell&logoColor=white)
 
+![DevOps](https://img.shields.io/badge/DevOps-2088FF?style=for-the-badge&logo=tux&logoColor=white)
+
+![DevOps](https://img.shields.io/badge/DevOps-2088FF?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
 _See more details here_
 
 <br>
