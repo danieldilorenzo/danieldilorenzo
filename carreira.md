@@ -91,4 +91,5 @@ Transição para Desenvolvimento Backend / Automação, aplicando conhecimentos 
 
 <br>
 <br>
+
 _"O aprendizado contínuo é a ferramenta mais poderosa de um profissional de TI."_
