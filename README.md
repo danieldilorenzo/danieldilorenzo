@@ -123,6 +123,9 @@ https://github.com/danieldilorenzo/danieldilorenzo/blob/main/stardew%20mods.md
 
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![SysAdmin](https://img.shields.io/badge/SysAdmin-0078D4?style=for-the-badge&logo=linux&logoColor=white) ![DevOps](https://img.shields.io/badge/DevOps-2088FF?style=for-the-badge&logo=github&logoColor=white) ![Docs](https://img.shields.io/badge/Docs-E6522C?style=for-the-badge&logo=markdown&logoColor=white)
 
+
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![SysAdmin](https://img.shields.io/badge/SysAdmin-0078D4?style=for-the-badge&logo=linux&logoColor=white) ![DevOps](https://img.shields.io/badge/DevOps-2088FF?style=for-the-badge&logo=laptop&logoColor=white) ![Docs](https://img.shields.io/badge/Docs-E6522C?style=for-the-badge&logo=markdown&logoColor=white)
+
 _See more details here_
 
 <br>
