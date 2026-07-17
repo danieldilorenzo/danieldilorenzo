@@ -125,7 +125,9 @@ https://github.com/danieldilorenzo/danieldilorenzo/blob/main/stardew%20mods.md
 
 _See more details here_
 
-<br>
+![DevOps](https://img.shields.io/badge/DevOps-%230d1117?style=for-the-badge&logo=laptop&logoColor=white)
+
+
 
 ### :books: **What do I study**
 
