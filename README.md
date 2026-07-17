@@ -115,6 +115,63 @@ https://github.com/danieldilorenzo/danieldilorenzo/blob/main/stardew%20mods.md
 
 <br>
 
+### 👩🏻‍💻 **Carrier Goals** 📈
+
+
+- [ ] **Bash** (Automação de Infraestrutura)
+
+**Objetivo:** Automatizar tarefas do dia a dia no Linux e transformar documentos em scripts executáveis.
+
+**Recursos:**
+
+- Bash Guide (Wooledge)
+- Advanced Bash-Scripting Guide
+
+**Prática:** Criar um arquivo setup.sh que automatize suas instalações de pacotes no openSUSE/Fedora.
+
+<br>
+<br>
+
+- [ ] **Python** (Desenvolvimento e Integração)
+
+**Objetivo:** Criar scripts inteligentes de monitoramento e integração de sistemas.
+
+**Recursos:**
+
+- Curso em Vídeo (Guanabara)
+- Curso de Python (Iacono)
+- 100 Days of Code (Udemy)
+
+Documentação Oficial do Python
+
+<br>
+<br>
+
+- [ ] **SysAdmin** (Manutenção e Estabilidade)
+
+**Objetivo:** Aplicar o conhecimento de Linux e hardware para garantir a saúde de sistemas e servidores.
+
+**Foco:** Gerenciamento de servidores, permissões, logs e estabilidade.
+
+<br>
+<br>
+
+- [ ] **DevOps** (Cultura e Automação de Ciclo de Vida)
+
+**Objetivo:** Integrar desenvolvimento e infraestrutura através de código, garantindo entregas rápidas e automáticas.
+**Foco:** Infraestrutura como código (IaC) e otimização de fluxos de trabalho.
+
+<br>
+<br>
+
+**Ações para o GitHub:**
+
+**Documentação Ativa:** Continuar o hábito de registrar aprendizados em arquivos .md (ex: python.md, bash.md).
+**Portfólio de Scripts:** Subir para o repositório os pequenos scripts criados durante o estudo, incluindo a documentação do que eles fazem.
+**Demonstração Prática:** Manter o histórico de configurações (como os seus arquivos de setup atuais) como prova de trabalho.
+
+<br>
+
 ### :books: **What do I study**
 
 <!--
