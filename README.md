@@ -118,57 +118,14 @@ https://github.com/danieldilorenzo/danieldilorenzo/blob/main/stardew%20mods.md
 ### 👩🏻‍💻 **Carrier Goals** 📈
 
 
-- [ ] **Bash** (Automação de Infraestrutura)
+-  **Bash** (Automação de Infraestrutura)
+-  **Python** (Desenvolvimento e Integração)
+-  **SysAdmin** (Manutenção e Estabilidade)
+-  **DevOps** (Cultura e Automação de Ciclo de Vida)
+-  **Always documentation** (Cause documentation is life ❤️)
 
-**Objetivo:** Automatizar tarefas do dia a dia no Linux e transformar documentos em scripts executáveis.
 
-**Recursos:**
-
-- Bash Guide (Wooledge)
-- Advanced Bash-Scripting Guide
-
-**Prática:** Criar um arquivo setup.sh que automatize suas instalações de pacotes no openSUSE/Fedora.
-
-<br>
-<br>
-
-- [ ] **Python** (Desenvolvimento e Integração)
-
-**Objetivo:** Criar scripts inteligentes de monitoramento e integração de sistemas.
-
-**Recursos:**
-
-- Curso em Vídeo (Guanabara)
-- Curso de Python (Iacono)
-- 100 Days of Code (Udemy)
-
-Documentação Oficial do Python
-
-<br>
-<br>
-
-- [ ] **SysAdmin** (Manutenção e Estabilidade)
-
-**Objetivo:** Aplicar o conhecimento de Linux e hardware para garantir a saúde de sistemas e servidores.
-
-**Foco:** Gerenciamento de servidores, permissões, logs e estabilidade.
-
-<br>
-<br>
-
-- [ ] **DevOps** (Cultura e Automação de Ciclo de Vida)
-
-**Objetivo:** Integrar desenvolvimento e infraestrutura através de código, garantindo entregas rápidas e automáticas.
-**Foco:** Infraestrutura como código (IaC) e otimização de fluxos de trabalho.
-
-<br>
-<br>
-
-**Ações para o GitHub:**
-
-**Documentação Ativa:** Continuar o hábito de registrar aprendizados em arquivos .md (ex: python.md, bash.md).
-**Portfólio de Scripts:** Subir para o repositório os pequenos scripts criados durante o estudo, incluindo a documentação do que eles fazem.
-**Demonstração Prática:** Manter o histórico de configurações (como os seus arquivos de setup atuais) como prova de trabalho.
+_See more details here_
 
 <br>
 
@@ -186,22 +143,24 @@ Documentação Oficial do Python
 <!-- For The Badge -->
 [![Python Badge](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)](https://www.udemy.com/course/100-days-of-code)
 
-
 <br>
+
+<!--
 
 ### :dart: **Goals**
 
 - [ ] Learn Python
-<!--
 - [ ] Learn HTML and CSS
 - [ ] Learn Javascript
 - [ ] Make a to-do list
 - [ ] Make a pokedex
+
 -->
 
 <br>
 
 ### 🛠️ **Working Projects** 
+
 <!-- Flat Square
 [![Working projects](https://img.shields.io/badge/Linux-How%20I%20install%20Linux-1793D1?style=flat-square&logo=linux&logoColor=white&link=https://github.com/danieldilorenzo/install_linux)](https://github.com/danieldilorenzo/install_linux)
 [![Python Badge](https://img.shields.io/badge/Python%20-100%20days%20of%20code%20in%20Python-14354C?style=flat-square&logo=python&logoColor=white)](https://github.com/danieldilorenzo/100-days-of-code-Python)
