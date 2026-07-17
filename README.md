@@ -132,7 +132,7 @@ https://github.com/danieldilorenzo/danieldilorenzo/blob/main/stardew%20mods.md
 
 ![Docs](https://img.shields.io/badge/Docs-E6522C?style=for-the-badge&logo=markdown&logoColor=white)
 
-_See more details here_
+_[See more details here](https://github.com/danieldilorenzo/danieldilorenzo/blob/main/carreira.md)_
 
 <br>
 
