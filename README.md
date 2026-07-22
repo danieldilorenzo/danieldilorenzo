@@ -126,6 +126,8 @@ https://github.com/danieldilorenzo/danieldilorenzo/blob/main/stardew%20mods.md
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
 
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+
 ![SysAdmin](https://img.shields.io/badge/SysAdmin-0078D4?style=for-the-badge&logo=linux&logoColor=white) 
 
 ![DevOps](https://img.shields.io/badge/💻%20DevOps-71deff?style=for-the-badge)
